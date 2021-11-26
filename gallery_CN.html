@@ -54,10 +54,9 @@ $grid.imagesLoaded().progress( function() {
     	<div id="logo">
       	<img src="image/icons/logo.png" alt="logo"/>
       </div>
-      
 		<div id="social-media">
 		  <p><a href="gallery.html">English</a> | 中文</p>
-		</div>      
+		</div>        
 <!-- 		<div id="social-media">
 			<ul>
 			  <li><a href="https://www.linkedin.com/pub/zida-li/40/870/6b1" target="_blank"><img src="image/icons/linkedin.png" alt="LindedIn"/></a>
@@ -71,15 +70,7 @@ $grid.imagesLoaded().progress( function() {
       <div id="topnav">
         <ul>
           <a href="index_CN.html"><li>主页</li></a>
-
-		  <li><div class="dropdown">
-			  <span>研究</span>
-			  <div class="dropdown-content">
-			  <p><a href="research_CN.html">研究内容</a></p>
-			  <p><a href="facilities_CN.html">研究条件</a></p>
-			  </div>
-			</div></li>
-			
+		  <a href="research_CN.html"><li>研究</li></a>
           <a href="people_CN.html"> <li>成员</li></a>
           <a href="publications_CN.html"> <li>成果</li></a>		  
           <a href="news_CN.html"> <li>新闻</li></a>
@@ -88,13 +79,80 @@ $grid.imagesLoaded().progress( function() {
         </ul>
       </div>
     
-	
 
+<div id = "people-section">
+<h3>Group photos</h3>
+</div>
 
-	
 <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 0 }'>
 
-<!-- 270 px by 360 px OR 270 px by 203 px. -->
+    <div class="grid-item grid-item--landscape">
+	  <div class="photo_gal" ><img src="image/gallery/202107.jpg" style="width:270px;">
+		  <div class="caption_gal" >
+			<p>July 2021 farewell party for Lanzhu and Tao.</p>
+		  </div>
+	  </div>  
+    </div> 
+
+    <div class="grid-item grid-item--landscape">
+	  <div class="photo_gal" ><img src="image/gallery/202102.jpg" style="width:270px;">
+		  <div class="caption_gal" >
+			<p>Feb. 2021 photo-op on Lihu Campus.</p>
+		  </div>
+	  </div>  
+    </div> 
+
+    <div class="grid-item grid-item--landscape">
+	  <div class="photo_gal" ><img src="image/gallery/202001.jpg" style="width:270px;">
+		  <div class="caption_gal" >
+			<p>Jan. 2020 hotpot gathering (right before COVID19!).</p>
+		  </div>
+	  </div>  
+    </div> 
+
+    <div class="grid-item grid-item--landscape">
+	  <div class="photo_gal" ><img src="image/gallery/201906.jpg" style="width:270px;">
+		  <div class="caption_gal" >
+			<p>June 2019 photo-op.</p>
+		  </div>
+	  </div>  
+    </div> 
+
+    <div class="grid-item grid-item--landscape">
+	  <div class="photo_gal" ><img src="image/gallery/201809.jpg" style="width:270px;">
+		  <div class="caption_gal" >
+			<p>Sep. 2018 at CBME conference.</p>
+		  </div>
+	  </div>  
+    </div> 
+</div>
+	
+
+<div id = "people-section">
+<h3>Other photos</h3>
+</div>	
+<div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 0 }'>
+
+<!-- 
+Size: Landscape: 270*203; Portrait: 270*360. (W * H)
+
+  <div class="grid-item">
+	  <div class="photo_gal" ><img src="image/gallery/Small_Cover.jpg" style="width:270px;">
+		  <div class="caption_gal" >
+			<p>Caption.</p>
+		  </div>
+	  </div>
+  </div>
+
+    <div class="grid-item grid-item--landscape">
+	  <div class="photo_gal" ><img src="image/gallery/Fig (1).jpg" style="width:270px;">
+		  <div class="caption_gal" >
+			<p>Caption</p>
+		  </div>
+	  </div>  
+    </div> 
+
+ -->
     <div class="grid-item">
 	  <div class="photo_gal" ><img src="image/gallery/ACS_Sensors_Cover_2020.jpg" style="width:270px;">
 		  <div class="caption_gal" >
@@ -102,6 +160,7 @@ $grid.imagesLoaded().progress( function() {
 		  </div>
 	  </div>  
     </div> 
+
 
 
      <div class="grid-item grid-item--landscape">
@@ -131,6 +190,9 @@ $grid.imagesLoaded().progress( function() {
 
 
 
+
+
+
      <div class="grid-item grid-item--landscape">
 	  <div class="photo_gal" ><img src="image/gallery/BGI Visit.png" style="width:270px;">
 		  <div class="caption_gal" >
@@ -155,6 +217,8 @@ $grid.imagesLoaded().progress( function() {
 	  </div>  
     </div> 
 
+	
+ 
     <div class="grid-item grid-item--landscape">
 	  <div class="photo_gal" ><img src="image/gallery/2019 Group Dinner.png" style="width:270px;">
 		  <div class="caption_gal" >
@@ -162,8 +226,7 @@ $grid.imagesLoaded().progress( function() {
 		  </div>
 	  </div>  
     </div> 
-
-
+	
     <div class="grid-item grid-item--landscape">
 	  <div class="photo_gal" ><img src="image/gallery/2019 FLOCA.png" style="width:270px;">
 		  <div class="caption_gal" >
@@ -479,6 +542,7 @@ $grid.imagesLoaded().progress( function() {
     <p>Last edited: Feb 2021 | Zida Lab</p>
 	<p>Grid layout powered by <a href = https://masonry.desandro.com/ target = blank>Masonry</a></p>
     </div>
+</div>
 </div>
 </div>
 
