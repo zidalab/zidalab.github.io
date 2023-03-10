@@ -30,6 +30,17 @@ h1 {
 /* 	 font-family:Arial, Helvetica, sans-serif; */
  }
  
+ a {
+    color: #0060B6;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+ 
  #outer {
 	 width:960px;
 	 background-color:#FFF;
