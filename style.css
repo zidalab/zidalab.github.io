@@ -185,6 +185,12 @@ margin:20px ;
 	 text-align:center;
  }
  
+ .cover-image{
+	 box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+
+
+        }
+ 
 
  
  #instrument-content{
