@@ -15,15 +15,15 @@ Our research is focused on addressing problems in biomedical research using our 
 - [Blood coagulation testing](#biochip)
 - [Miscellaneous microfluidic tools](#microfluidics)
 
-Some of the past and ongoing projects are shown below. Available facilities are shown [here](facilities.html).
+Some of the past and ongoing projects are shown below. Available facilities are shown [here]({{ site.url }}{{ site.baseurl }}/instrumente).
 
-![Research Overview]({{ site.url }}{{ site.baseurl }}/images/respic/research_overview.png){: style="width: 40%; float: center; margin: 0px"}
+![Research Overview]({{ site.url }}{{ site.baseurl }}/images/respic/research_overview.png){: style="width:70%; float: center; margin: 0px"}
 
 ---
 
 ## <a id="ddpcr"></a>Single-molecule analysis of nucleic acids
 
-![dPCR]({{ site.url }}{{ site.baseurl }}/images/respic/dir2_dPCR-01.png){: style="width: 70%; float: center; margin: 0px"}
+![dPCR]({{ site.url }}{{ site.baseurl }}/images/respic/dir2_dPCR-01.png){: style="width: 85%; float: center; margin: 0px"}
 
 Nucleic acid detection plays a central role in the identification of pathogen infection, diagnosis of genetic diseases, and genetic analysis. The commonly used method of real-time PCR requires references for quantification. In contrast, the emerging technology of digital PCR offers a means for absolute quantification. However, existing digital PCR technical platforms require sophisticated instruments for compartmentalization and signal reading, limiting their widespread applications. In addition, only a handful of nucleic acid targets can be simultaneously tested. In our lab, we aim to develop low cost, portable, multiplex methods for digital nucleic acid tests using microfluidic tools and machine learning algorithms.
 
@@ -48,7 +48,7 @@ Nucleic acid detection plays a central role in the identification of pathogen in
 
 ## <a id="single-cell"></a>Single-cell analysis
 
-![scRNAseq]({{ site.url }}{{ site.baseurl }}/images/respic/dir3_scRNAseq.png){: style="width: 70%; float: center; margin: 0px"}
+![scRNAseq]({{ site.url }}{{ site.baseurl }}/images/respic/dir3_scRNAseq.png){: style="width: 85%; float: center; margin: 0px"}
 
 Every cell is special. Bulk analysis takes ensemble average of the biological samples, while single cell analysis offers the opportunity to tease out cell heterogeneity. A typical pipeline of single cell analysis including cell isolation, library construction, sequencing, and stats, and droplet microfluidics offers a method to isolate and process cells with ultrahigh throughput. We are currently working on improving the performance of droplet microfluidics in single cell analysis, in terms of cell encapsulation, droplet sorting, and barcoding. We work closely with our collaborators in sequencing industry.
 
@@ -98,7 +98,7 @@ Monitoring of coagulation function has applications in many clinical settings, b
 
 ## <a id="microfluidics"></a>Microfluidic tools
 
-![Microfluidics]({{ site.url }}{{ site.baseurl }}/images/respic/dummy.png){: style="width: 70%; float: center; margin: 0px"}
+![Microfluidics]({{ site.url }}{{ site.baseurl }}/images/respic/dummy.png){: style="width: 85%; float: center; margin: 0px"}
 
 In our lab, we are also interested in developing new microfluidic tools for various biomedical applications. For example, we use real-time image analysis to identify droplets with different encapsulations and perform downstream droplet manipulations. We develop new technologies to pattern antibodies with high resolutions and multiplexity.
 

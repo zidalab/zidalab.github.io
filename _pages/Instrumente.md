@@ -1,24 +1,39 @@
 ---
-title: "Allan Lab - Instrumente"
+title: "ZidaLab - Instruments"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
-permalink: /instrumente.html
+permalink: /instrumente/
 ---
 
-
-## Hier paar Bilder von laufenden und abgeschlossenen Projekten
-
-### Rastertunnelmikroskop "Dome" 
-![image](/images/inst/DomePlan.jpg){:class="img-responsive"}
-![image](/images/inst/domescrew.jpg){:class="img-responsive" width="75%"}
-![image](/images/inst/build.jpg){:class="img-responsive" width="35%"}
-![image](/images/inst/dometest.jpg){:class="img-responsive"}
-![image](/images/inst/domebig.jpg){:class="img-responsive"}
-
-### Rastertunnelmikroskop "STM4" 
-![image](/images/inst/STM4.jpg){:class="img-responsive"}
+## Lab space overview
+![image](/images/inst/lab_view.jpg){:class="img-responsive" width="50%"}
+![image](/images/inst/lab_board.jpg){:class="img-responsive" width="50%"}
 
 
-### Rastertunnelmikroskop "Tama" 
-![image](/images/inst/tama.jpeg){:class="img-responsive" width="75%"}
+## Instruments
+
+### Microfabrication and microfluidics 
+![image](/images/inst/photolitho1.jpg){:class="img-responsive" width="50%"}
+![image](/images/inst/photolitho2.jpg){:class="img-responsive" width="50%"}
+![image](/images/inst/soft_litho.jpg){:class="img-responsive" width="50%"}
+![image](/images/inst/plasma.jpg){:class="img-responsive" width="50%"}
+![image](/images/inst/threed_printer.jpg){:class="img-responsive" width="50%"}
+
+### Microscopy 
+![image](/images/inst/fads.jpg){:class="img-responsive" width="50%"}
+![image](/images/inst/microfluidics_imaging.jpg){:class="img-responsive" width="50%"}
+![image](/images/inst/nikon_ti2e.jpg){:class="img-responsive" width="50%"}
+
+
+
+### Molecular and cellular biology 
+![image](/images/inst/pcr.jpg){:class="img-responsive" width="50%"}
+![image](/images/inst/clean_bench.jpg){:class="img-responsive" width="50%"}
+![image](/images/inst/incubator.jpg){:class="img-responsive" width="50%"}
+
+### Computation
+Synology network-attached storage (NAS)
+
+Workstation with GPUs (RTX3090Ti X 2)
+
