@@ -1,0 +1,755 @@
+
+- title: "Reimagining POCT assays: Automated digital microfluidics for multiplex in vitro diagnostics"
+  image:
+  authors: Wenkai Fan, Donghao Li, Jingyi Ding, <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.talanta.2025.128270
+    display: Talanta, in press (2025)
+  highlight: 0
+  news2:
+
+- title: "Droplet digital PCR-based single aptamer selection"
+  image:
+  authors: Zerui Wu,# Wanjun Yao,# Jinyu Chen, Yonghao Chen, <b>Zida Li</b>, Weiping Ding,* Liqun He,* and Peng Hu*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.talanta.2025.127924
+    display: Talanta, 127924 (2025)
+  highlight: 0
+  news2:
+
+- title: "Embracing Poisson encapsulation statistics for improved droplet digital immunoassay"
+  image:
+  authors: Yujuan Chai, Xiaoxiang Hu, Qi Fang, Yuanyuan Guo, Binmao Zhang, Hangjia Tu, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1021/acs.analchem.4c04552
+    display: Anal. Chem. 97(1), 444–453 (2025)
+  highlight: 0
+  news2:
+
+- title: "StratoLAMP: Label-free, multiplex digital loop-mediated isothermal amplification based on visual stratification of precipitate"
+  image: 2024_PNAS_Jin.png
+  description: Simultaneous testing of multiple genes is important for applications such as pathogen identification. Such testing has primarily relied on fluorescence labeling that are complicated and costly. To achieve that in a label-free manner, here we report a method, named StratoLAMP, using the inherently generated precipitate in isothermal amplification as the detecting feature. By specially designing the amplification system, droplets encapsulating different nucleic acid targets exhibited different levels of precipitates, which were accurately stratified to infer the encapsulated targets using deep learning image analysis. We demonstrated the capability of the StratoLAMP in simultaneous quantification of two nucleic acid targets within the samples. By eliminating the need for fluorescence, the StratoLAMP holds great application potential for nucleic acid quantification in resource-limited settings.
+  authors: Meichi Jin,# Jingyi Ding,# Yu Zhou, Jiazhao Chen, Yi Wang, and <b>Zida Li</b>*
+  link:
+    url: https://www.pnas.org/doi/10.1073/pnas.2314030121
+    display: Proc. Natl. Acad. Sci. U.S.A., 121(2), e2314030121, 2024
+  highlight: 1
+
+
+- title: "Image-activated pico-injection for single cell analysis"
+  image:
+  authors: Zhantao Zhao, Heng Zhai, Peng Zuo, Tao Wang, Run Xie, Mu Tian, Ruyuan Song, Xiaonan Xu, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.talanta.2024.125765
+    display: Talanta 272, 125765 (2024)
+  highlight: 0
+  news2:
+
+
+
+- title: "CoID-LAMP: Color-encoded, intelligent digital LAMP for multiplexed nucleic acid quantification"
+  image: 2023_AC_Wu.png
+  authors: Kai Wu,# Qi Fang,# Zhantao Zhao, and <b>Zida Li</b>*
+  description: Multiplex, digital nucleic acid tests have important biomedical applications, but existing methods mostly use fluorescent probes that are target-specific and difficult to optimize, limiting their widespread applications. Here, we report color-encoded, intelligent digital loop-mediated isothermal amplification (CoID-LAMP) for the coidentification of multiple nucleic acid targets. CoID-LAMP supplements different primer solutions with different dyes, generates primer droplets and sample droplets, and collectively pairs these two types of droplets in a microwell array device to perform LAMP. After imaging, the droplet colors were analyzed to decode the primer information, and the precipitate byproducts within droplets were detected to determine the target occupancy and calculate the concentrations. We first established an image analysis pipeline based on a deep learning algorithm for reliable droplet detection and validated the analytical performance in nucleic acid quantification. We then implemented CoID-LAMP using fluorescent dyes as the coding materials and established an 8-plex digital nucleic acid assay, confirming the reliable coding performance and the capability of multiplex nucleic acid quantification. We further implemented CoID-LAMP using brightfield dyes for a 4-plex assay, suggesting that the assay could be realized solely by brightfield imaging with minimal demand on the optics. Leveraging the advantages of droplet microfluidics in multiplexing and deep learning in intelligent image analysis, CoID-LAMP offers a useful tool for multiplex nucleic acid quantification.
+  link:
+    url: https://doi.org/10.1021/acs.analchem.2c05665
+    display: Anal. Chem. 95(11), 5069–5078 (2023)
+  highlight: 1
+  news2:
+
+
+- title: "Combinatorial perturbation sequencing on single cells using microwell-based droplet random pairing"
+  image: 2022_BB_Xie.png
+  authors: Run Xie,# Yang Liu,# Shiyu Wang, Xuyang Shi, Zhantao Zhao, Longqi Liu, Ya Liu,* and <b>Zida Li</b>*
+  description: Combinatorial drug therapy reduces drug resistance and disease relapse, but informed drug combinations are lacking due to the high scale of possible combinations and the relatively simple phenotyping strategies. Here we report combinatorial perturbation sequencing (CP-seq) on single cells using microwell-base droplet random pairing. CP-seq uses oligonucleotides to barcode drugs, encapsulates drugs and cells in separate droplets, and pairs cell droplets with two drug droplets randomly on a microwell array chip to complete combinatorial drug treatment and barcode-tagging on cells. The subsequent single-cell RNA sequencing simultaneously detects the single-cell transcriptomes and drug barcodes to demultiplex the corresponding drug treatment. The microfluidic droplet operations had robust performance, with the overall utilization rate of the microwells being up to 83%. We then progressively validated the CP-seq by performing single-drug treatments and then combinatorial-drug treatments, confirming the CP-seq's capability in the collection and analysis of drug-perturbed transcriptomes. Leveraging the advantage of droplet microfluidics in massive multiplexing, the CP-seq represents a great technology for combinatorial perturbation screening with high throughput and comprehensive profiling.
+  link:
+    url: https://doi.org/10.1016/j.bios.2022.114913
+    display: Biosens. Bioelectron. 220, 114913 (2023)
+  highlight: 1
+  news2:
+
+
+- title: "High resolution, multiplex antibody patterning using micropillar-focused droplet printing and microcontact printing"
+  image:
+  authors: Meichi Jin, Kai Wu, Mengzhen Wang, Yang Zhang, Chengbin Yang, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1002/adbi.202300111
+    display: Adv. Biol. 7(8), 2300111 (2023)
+  highlight: 0
+  news2:
+
+
+- title: "Bone-on-a-chip platforms and integrated biosensors: towards advanced in vitro bone models with real-time biosensing"
+  image:
+  authors: Yang Zhang, Taozhao Yu, Jingyi Ding, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.bios.2022.114798
+    display: Biosens. Bioelectron. 219, 114798 (2023)
+  highlight: 0
+  news2:
+
+
+- title: "deep-dLAMP: deep learning-enabled polydisperse emulsion-based digital loop-mediated isothermal amplification"
+  image: 2022_AS_Chen.png
+  authors: Linzhe Chen,# Jingyi Ding,# Hao Yuan, Chi Chen,* and <b>Zida Li</b>*
+  description: Digital nucleic acid amplification tests enable absolute quantification of nucleic acids, but the generation of uniform compartments and reading of the fluorescence requires specialized instruments that are costly, limiting their widespread applications. Here, the authors report deep learning-enabled polydisperse emulsion-based digital loop-mediated isothermal amplification (deep-dLAMP) for label-free, low-cost nucleic acid quantification. deep-dLAMP performs LAMP reaction in polydisperse emulsions and uses a deep learning algorithm to segment and determine the occupancy status of each emulsion in images based on precipitated byproducts. The volume and occupancy data of the emulsions are then used to infer the nucleic acid concentration based on the Poisson distribution. deep-dLAMP can accurately predict the sizes and occupancy status of each emulsion and provide accurate measurements of nucleic acid concentrations with a limit of detection of 5.6 copies µl-1 and a dynamic range of 37.2 to 11000 copies µl-1. In addition, deep-dLAMP shows robust performance under various parameters, such as the vortexing time and image qualities. Leveraging the state-of-the-art deep learning models, deep-dLAMP represents a significant advancement in digital nucleic acid tests by significantly reducing the instrument cost. We envision deep-dLAMP would be readily adopted by biomedical laboratories and be developed into a point-of-care digital nucleic acid test system.
+  link: 
+    url: https://doi.org/10.1002/advs.202105450
+    display: Adv. Sci. 9(9), 2105450 (2022)
+  highlight: 1
+  news2:
+
+
+- title: "Point-of-care blood coagulation assay based on dynamic monitoring of blood viscosity using droplet microfluidics"
+  image: 2022_ACSSensors_Chen.png
+  authors: Linzhe Chen, Donghao Li, Xinyu Liu, Yihan Xie, Jieying Shan, Haofan Huang, Xiaxia Yu, Yudan Chen, Weidong Zheng, and <b>Zida Li</b>*
+  description: Monitoring of the coagulation function has applications in many clinical settings. Routine coagulation assays in the clinic are sample-consuming and slow in turnaround. Microfluidics provides the opportunity to develop coagulation assays that are applicable in point-of-care settings, but reported works required bulky sample pumping units or costly data acquisition instruments. In this work, we developed a microfluidic coagulation assay with a simple setup and easy operation. The device continuously generated droplets of blood sample and buffer mixture and reported the temporal development of blood viscosity during coagulation based on the color appearance of the resultant droplets. We characterized the relationship between blood viscosity and color appearance of the droplets and performed experiments to validate the assay results. In addition, we developed a prototype analyzer equipped with simple fluid pumping and economical imaging module and obtained similar assay measurements. This assay showed great potential to be developed into a point-of-care coagulation test with practical impact.
+  link:
+    url: https://doi.org/10.1021/acssensors.1c02360
+    display: ACS Sens. 7(8), 2170–2177 (2022)
+  highlight: 1
+  news2:
+
+- title: "Generation and Screening of Antigen-Specific Nanobodies from Mammalian Cells Expressing the BCR Repertoire Library Using Droplet-Based Microfluidics"
+  image:
+  authors: Menghua Lyu,# Xuyang Shi,# Xiaopan Liu,# Yang Liu, Xijun Zhu, Lijuan Liao, Hongyan Zhao, Na Sun, Shiyu Wang, Linzhe Chen, Linyuan Fan, Qumiao Xu, Qianqian Zhu, Kai Gao, Huaying Chen, Yonggang Zhu, <b>Zida Li</b>, Weijin Guo, Yue Zheng, Ying Gu, Longqi Liu,* Meiniang Wang,* and Ya Liu*
+  description:
+  link:
+    url: https://doi.org/10.1021/acs.analchem.2c00865
+    display: Anal. Chem. 94(22), 7970–7980 (2022)
+  highlight: 0
+  news2:
+
+- title: "Point-of-care blood coagulation assay enabled by printed circuit board-based digital microfluidics"
+  image:
+  authors: Donghao Li,# Xinyu Liu,# Yujuan Chai,# Jieying Shan, Yihan Xie, Yong Liang, Susu Huang, Weidong Zheng, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1039/D1LC00981H
+    display: Lab Chip 22(4), 709-716 (2022)
+  highlight: 0
+  news2:
+
+
+- title: "Single-cell sequencing to unveil the mystery of embryonic development"
+  image:
+  authors: <b>Zida Li</b>,#,* Feng Lin,# Chu-Han Zhong, Shue Wang, Xufeng Xue, and Yue Shao*
+  description:
+  link:
+    url: https://doi.org/10.1002/adbi.202101151
+    display: Adv. Biol. 6(2), 2101151 (2022)
+  highlight: 0
+  news2:
+
+- title: "High-throughput functional screening of antigen-specific T-cells based on droplet microfluidics on single-cell level"
+  image:
+  authors: Shiyu Wang,# Yang Liu,# Yijian Li, Menghua Lv, Kai Gao, Ying He, Wenbo Wei, Yonggang Zhu, Xuan Dong, Xun Xu, <b>Zida Li</b>,* Longqi Liu,* and Ya Liu*
+  description:
+  link:
+    url: https://doi.org/10.1021/acs.analchem.1c03678
+    display: Anal. Chem. 94(2), 918–926 (2022)
+  highlight: 0
+  news2:
+
+- title: "Emerging biosensing technologies for improved diagnostics of COVID-19 and future pandemics"
+  image:
+  authors: Linzhe Chen, Guoliang Zhang, Longqi Liu*, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.talanta.2020.121986
+    display: Talanta 225, 121986 (2021)
+  highlight: 0
+  news2:
+
+- title: "Micro-engineered flexural post rings for effective blood sample fencing and high throughput measurement of clot retraction force"
+  image:
+  authors: Lanzhu Huang,# Xinyu Liu,# Yuanbin Ou, Haofan Huang, Xia Zhang, Yize Wang, Yong Liang, Xiaxia Yu, Weidong Zheng, Huisheng Zhang, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1021/acssensors.0c01596
+    display: ACS Sens. 5(12), 3949-3955 (2020)
+  highlight: 0
+  news2:
+
+- title: "Recent advances in solar-driven evaporation system"
+  image:
+  authors: Zhourui Xu, <b>Zida Li</b>, Yihang Jiang, Gaixia Xu, Mingwei Zhu, Wing-Cheung Law, Ken-Tye Yong, Yanshuai Wang, Chengbin Yang, Biqin Dong, and Feng Xing*
+  description:
+  link:
+    url: https://doi.org/10.1039/D0TA08869B
+    display: J. Mater. Chem. A 8, 25571-25600 (2020)
+  highlight: 0
+  news2:
+
+- title: "Stretchable supercapacitors as emergent energy storage units for health monitoring bioelectronics"
+  image:
+  authors: Xue Chen, Nicolo Simone Villa, Yanfeng Zhuang, Linzhe Chen, Tianfu Wang, <b>Zida Li</b>*, and Tiantian Kong*
+  description:
+  link:
+    url: https://doi.org/10.1002/aenm.201902769
+    display: Adv. Energy Mater. 10(4), 1902769 (2020)
+  highlight: 0
+  news2:
+
+- title: "Dean flow assisted single cell and bead encapsulation for high performance single cell expression profiling"
+  image:
+  authors: Luoquan Li,# Ping Wu,# Zhaofeng Luo, Lei Wang, Weiping Ding, Tao Wu, Jinyu Chen, Jinlong He, Yi He, Heran Wang, Ying Chen, Guibo Li, <b>Zida Li</b>,* and Liqun He*
+  description:
+  link:
+    url: https://doi.org/10.1021/acssensors.9b00171
+    display: ACS Sens. 4(5), 1299-1305 (2019)
+  highlight: 0
+  news2:
+
+- title: "Multiple splitting of droplets using multi-furcating microfluidic channels"
+  image:
+  authors: <b>Zida Li</b>*, Luoquan Li, Meixiang Liao, Liqun He, and Ping Wu*
+  description:
+  link:
+    url: https://doi.org/10.1063/1.5086716
+    display: Biomicrofluidics 13(2), 024112 (2019)
+  highlight: 0
+  news2:
+
+
+- title: "Controlled modeling of human epiblast and amnion development using stem cells"
+  image: dummy.png
+  authors: Yi Zheng, Xufeng Xue, Yue Shao, Sicong Wang, Sajedeh Nasr Esfahani, <b>Zida Li</b>, Jonathon M. Muncie, Johnathon N. Lakins, Valerie M. Weaver, Deborah L. Gumucio, and Jianping Fu*
+  description: Early human embryonic development involves extensive lineage diversification, cell-fate specification and tissue patterning1. Despite its basic and clinical importance, early human embryonic development remains relatively unexplained owing to interspecies divergence2,3 and limited accessibility to human embryo samples. Here we report that human pluripotent stem cells (hPSCs) in a microfluidic device recapitulate, in a highly controllable and scalable fashion, landmarks of the development of the epiblast and amniotic ectoderm parts of the conceptus, including lumenogenesis of the epiblast and the resultant pro-amniotic cavity, formation of a bipolar embryonic sac, and specification of primordial germ cells and primitive streak cells. We further show that amniotic ectoderm-like cells function as a signalling centre to trigger the onset of gastrulation-like events in hPSCs. Given its controllability and scalability, the microfluidic model provides a powerful experimental system to advance knowledge of human embryology and reproduction. This model could assist in the rational design of differentiation protocols of hPSCs for disease modelling and cell therapy, and in high-throughput drug and toxicity screens to prevent pregnancy failure and birth defects.
+  link:
+    url: https://doi.org/10.1038/s41586-019-1535-2
+    display: Nature 573(7774), 421-425 (2019)
+  highlight: 0
+  news2:
+
+- title: "Dorsal-ventral patterned neural cyst from human pluripotent stem cells in a neurogenic niche"
+  image: dummy.png
+  authors: Yuanyuan Zheng,# Xufeng Xue,# Agnes M. Resto Irizarry, <b>Zida Li</b>, Yue Shao, Yi Zheng, Gang Zhao,* and Jianping Fu*
+  description: Despite its importance in central nervous system development, development of the human neural tube (NT) remains poorly understood, given the challenges of studying human embryos, and the developmental divergence between humans and animal models. We report a human NT development model, in which NT-like tissues, neuroepithelial (NE) cysts, are generated in a bioengineered neurogenic environment through self-organization of human pluripotent stem cells (hPSCs). NE cysts correspond to the neural plate in the dorsal ectoderm and have a default dorsal identity. Dorsal-ventral (DV) patterning of NE cysts is achieved using retinoic acid and/or sonic hedgehog and features sequential emergence of the ventral floor plate, P3, and pMN domains in discrete, adjacent regions and a dorsal territory progressively restricted to the opposite dorsal pole. This hPSC-based, DV patterned NE cyst system will be useful for understanding the self-organizing principles that guide NT patterning and for investigations of neural development and neural disease.
+  link:
+    url: https://doi.org/10.1126/sciadv.aax5933
+    display: Sci. Adv. 5(12), eaax5993 (2019)
+  highlight: 0
+  news2:
+
+
+- title: "Microengineered human amniotic ectoderm tissue array for high-content developmental phenotyping"
+  image:
+  authors: Sajedeh Nasr Esfahani, Yue Shao, Agnes M Resto Irizarry, <b>Zida Li</b>, Xufeng Xue, Deborah L Gumucio, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.biomaterials.2019.119244
+    display: Biomaterials 216, 119244 (2019)
+  highlight: 0
+  news2:
+
+- title: "Biophysical phenotypes and determinants of anterior vs. posterior primitive streak cells derived from human pluripotent stem cells"
+  image:
+  authors: Feng Lin, Yue Shao, Xufeng Xue, Yi Zheng, <b>Zida Li</b>, Chunyang Xiong*, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.actbio.2019.01.017
+    display: Acta Biomater. 86, 125-134 (2019)
+  highlight: 0
+  news2:
+
+- title: "Carbon nanotube strain sensor based hemoretractometer for blood coagulation testing"
+  image:
+  authors: <b>Zida Li</b>, Yize Wang, Xufeng Xue, Brendan McCracken, Kevin Ward, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1021/acssensors.7b00971
+    display: ACS Sens. 3(3), 670-676 (2018)
+  highlight: 0
+  news2:
+
+- title: "Capillary assisted deposition of carbon nanotube film for strain sensing"
+  image:
+  authors: <b>Zida Li</b>, Xufeng Xue, Feng Lin, Yize Wang, Kevin Ward, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1063/1.5001754
+    display: Appl. Phys. Lett. 111(17), 173105 (2017)
+  highlight: 0
+  news2:
+
+- title: "Tracking the tumor invasion front using long-term fluidic tumoroid culture"
+  image:
+  authors: Koh Meng Aw Yong, <b>Zida Li</b>, Sofia D. Merajver, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1038/s41598-017-10874-1
+    display: Sci. Rep. 7, (2017)
+  highlight: 0
+  news2:
+
+- title: "Acoustic tweezing cytometry enhances osteogenesis of human mesenchymal stem cells through cytoskeletal contractility and YAP activation"
+  image:
+  authors: Xuefeng Xue, Xiaowei Hong, <b>Zida Li</b>, Cheri X. Deng, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.biomaterials.2017.04.039
+    display: Biomaterials 134, 22-30 (2017)
+  highlight: 0
+  news2:
+
+- title: "Controlled tubular unit formation from collagen film for modular tissue engineering"
+  image:
+  authors: Jianming Sang, Xiang Li, Yue Shao, <b>Zida Li</b>, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1021/acsbiomaterials.6b00468
+    display: ACS Biomater. Sci. Eng. 3(11), 2860-2868 (2016)
+  highlight: 0
+  news2:
+
+- title: "A miniaturized hemoretractometer for blood clot retraction testing"
+  image:
+  authors: <b>Zida Li</b>, Xiang Li, Brendan McCracken, Yue Shao, Kevin Ward, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1002/smll.201600274
+    display: Small 12, 3926–3934 (2016)
+  highlight: 0
+  news2:
+
+- title: "Musical interfaces: visualization and reconstruction of music with a microfluidic two-phase flow"
+  image:
+  authors: Sze Yi Mak, <b>Zida Li</b>, Arnaud Frere, Tat Chuen Chan, and Ho Cheung Shum*
+  description:
+  link:
+    url: https://doi.org/10.1038/srep06675
+    display: Sci. Rep. 4, 6675 (2014)
+  highlight: 0
+  news2:
+
+- title: "Syringe-pump-induced fluctuation in all-aqueous microfluidic system implications for flow rate accuracy"
+  image:
+  authors: <b>Zida Li</b>, Sze Yi Mak, Alban Sauret, and Ho Cheung Shum*
+  description:
+  link:
+    url: https://doi.org/10.1039/c3lc51176f
+    display: Lab Chip 14(4), 744-749 (2014)
+  highlight: 0
+  news2:
+
+- title: "Emerging microengineered tools for functional analysis and phenotyping of blood cells"
+  image:
+  authors: Xiang Li, Weiqiang Chen, <b>Zida Li</b>, Ling Li, Hongchen Gu, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.tibtech.2014.09.003
+    display: Trends Biotechnol. 32(11), 586-594 (2014)
+  highlight: 0
+  news2:
+
+- title: "Dynamics for dense packing of colloids"
+  image:
+  authors: Liqun He*, Ping Wu, <b>Zida Li</b>, and Lili Feng
+  description:
+  link:
+    url: https://doi.org/10.4028/www.scientific.net/AMR.465.248
+    display: Adv. Mater. Res. 165, 248-254 (2012)
+  highlight: 0
+  news2:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# - title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
+#   image: ShotNoise.png
+#   description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
+#   authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+#   link:
+#     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
+#     display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
+#   highlight: 1
+
+# - title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
+#   image: imageaward_edited.png
+#   description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
+#   authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+#   link:
+#     url: https://www.nature.com/articles/s41467-023-39109-w
+#     display: Nature Communications 4, 3341 (2023)
+#   highlight: 1
+#   news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
+
+# - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
+#   image: BSCCOgap.png
+#   description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
+#   authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
+#   link:
+#     url: https://www.nature.com/articles/s41563-023-01497-1
+#     display: Nature Materials 22, 703 (2023)
+#   highlight: 1
+#   news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
+
+
+# - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
+#   image: Pairs3.png
+#   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
+#   authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+#   link:
+#     url: https://www.science.org/doi/10.1126/science.abe3987
+#     display: Science 374, 608 (2021)
+#   highlight: 1
+#   news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
+#   news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+
+# - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
+#   image: TBG_SL.png
+#   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+#   authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+#   link:
+#     url: https://www.nature.com/articles/s41467-021-27646-1
+#     display:  Nat Comm 13, 70 (2022)
+#   highlight: 0
+#   news2:
+
+# - title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
+#   image: TBG_SL.png
+#   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+#   authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+#   link:
+#     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
+#     display:  Phys. Rev. Research 3, 013153 (2021)
+#   highlight: 1
+#   news2: See also [Nat Comm with the group of van der Molen](https://arxiv.org/abs/2107.14716)
+
+# - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
+#   image: YSR.png
+#   description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
+#   authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+#   link:
+#     url: https://www.nature.com/articles/s41467-020-20529-x
+#     display:  Nature Communications 12, 298 (2021)
+#   highlight: 1
+
+# - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
+#   image: TBG_ARPES.png
+#   description:
+#   authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
+#   link:
+#     url: https://dx.doi.org/10.1038/s41535-020-00303-4
+#     display: npj Quantum Materials 6, 7 (2021)
+#   highlight: 0
+#   news2:
+
+
+# - title: "Observation of flat bands in twisted bilayer graphene"
+#   image: TBG_ARPES.png
+#   description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
+#   authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+#   link:
+#     url: https://www.nature.com/articles/s41567-020-01041-x
+#     display:  Nature Physics 17, 198 (2020)
+#   highlight: 1
+#   news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
+
+# - title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
+#   image: Direct.png
+#   authors: I Battisti, WO Tromp, S Riccò, RS Perry, AP Mackenzie, A Tamai, F Baumberger, MP Allan
+#   description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+#   link:
+#     url: https://www.nature.com/articles/s41535-020-00292-4
+#     display:  npj Quantum Materials 5, 91 (2020)
+#   highlight: 1
+#   news2:
+
+# - title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
+#   image: TBG_ARPES.png
+#   authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
+#   description:
+#   link:
+#     url: https://www.nature.com/articles/s41378-020-00209-y
+#     display:  Microsyst. Nanoeng. 6, 99 (2020)
+#   highlight: 0
+#   news2:
+
+# - title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
+#   image: TBG_ARPES.png
+#   description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
+#   authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
+#   link:
+#     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
+#     display:  PRB 102, 115416 (2020)
+#   highlight: 0
+#   news2:
+
+# - title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
+#   image: STS_news.png
+#   description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
+#   authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
+#   link:
+#     url: https://www.nature.com/articles/s41586-019-1408-8
+#     display:  Nature 571, 541 (2019)
+#   highlight: 1
+#   news2:
+
+# - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
+#   image: SmartPub.png
+#   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
+#   authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+#   link:
+#     url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
+#     display: Nanotechnology 30, 335702 (2019)
+#   highlight: 1
+#   news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
+
+# - title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
+#   image: PbSpub.png
+#   description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
+#   authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
+#   link:
+#     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
+#     display:  Phys. Rev. B 100, 104506 (2019)
+#   highlight: 1
+#   news2:
+
+# - title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
+#   image: DomePub.png
+#   description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
+#   authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+#   link:
+#     url: https://aip.scitation.org/doi/10.1063/1.5064442
+#     display:  Rev. Sci. Instrum. 89, 123705 (2018)
+#   highlight: 1
+#   news2:
+
+# - title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
+#   image: Pub_BCl.png
+#   description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
+#   authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+#   link:
+#     url: https://www.nature.com/articles/s41567-018-0300-z
+#     display:  Nature Physics 14, 1183 (2018)
+#   highlight: 1
+#   news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
+#   news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
+
+# - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
+#   image: Fano.png
+#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+#   authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
+#   link:
+#     url: https://aip.scitation.org/doi/10.1063/1.5043267
+#     display:  Rev. Sci. Instrum. 89, 093709 (2018)
+#   highlight: 0
+#   news2:
+
+# - title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
+#   image: dummy.png
+#   description: ""
+#   authors: MA Sulangi, MP Allan, J Zaanen
+#   link:
+#     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
+#     display:  PRB 96, 134507 (2017)
+#   highlight: 0
+#   news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
+
+# - title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
+#   image: dummy.png
+#   description: ""
+#   authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
+#   link:
+#     url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
+#     display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
+#   highlight: 0
+#   news2:
+
+# - title: Creating better superconductors by periodic nanopatterning
+#   image: SCAUweb.jpg
+#   description:
+#     We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
+#   authors:
+#     MP Allan, MH Fischer, O Ostojic, A Andringa
+#   link:
+#     url: https://scipost.org/SciPostPhys.3.2.010/pdf
+#     display: SciPost Phys. 3, 010 (2017)
+#   highlight: 1
+
+# - title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
+#   image: TIBB.png
+#   description:
+#     We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
+#   authors:
+#     I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
+#   link:
+#     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
+#     display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
+#   highlight: 0
+
+# - title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
+#   image: Mott_phase_sep.jpg
+#   description:
+#     We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
+#   authors:
+#     I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
+#   link:
+#     url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
+#     display: Nature Physics 13, 21 (2017)
+#   highlight: 1
+#   news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
+
+# - title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
+#   image: Pub_FP.png
+#   description:
+#     Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
+#   authors:
+#     MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
+#   link:
+#     url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
+#     display: Nature Physics 11, 177 (2015)
+#   highlight: 1
+#   news1:
+#   news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
+
+# - title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
+#   image: dummy.png
+#   description: ""
+#   authors:
+#     J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+#   link:
+#     url: http://www.pnas.org/content/111/32/11663
+#     display: PNAS 111, 11663 (2014)
+#   highlight: 0
+#   news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
+#   news2:
+
+# - title: Imaging Cooper pairing of heavy fermions in CeCoIn5
+#   image: Pub_CeCoIn5.png
+#   description:
+#     The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
+#   authors:
+#     MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
+#   link:
+#     url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
+#     display: Nature Physics 9, 468 (2013)
+#   highlight: 1
+#   news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
+#   news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
+
+# - title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
+#   image: Pub_327.png
+#   description:
+#     Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
+#   authors:
+#     MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
+#   link:
+#     url: http://iopscience.iop.org/1367-2630/15/6/063029
+#     display: New Journal of Physics 15, 063029 (2013)
+#   highlight: 1
+#   news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+
+# - title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
+#   image: Pub_nemat2b.png
+#   description:
+#     We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
+#   authors:
+#     MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
+#   highlight: 1
+#   link:
+#     url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
+#     display: Nature Physics 9, 220 (2013)
+#   news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
+
+# - title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
+#   image: Pub_LiFeAs.png
+#   description:
+#     In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
+#   authors:
+#     MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
+#   link:
+#     url: http://www.sciencemag.org/content/336/6081/563
+#     display: Science 336, 563 (2012)
+#   highlight: 1
+#   news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
+
+# - title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
+#   image: dummy.png
+#   description: ""
+#   authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+#   link:
+#     url: http://www.pnas.org/content/108/45/18233
+#     display:  PNAS 108, 18233 (2011)
+#   highlight: 0
+#   news2:
+
+# - title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
+#   image: Pub_nemat1.png
+#   description:
+#     We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
+#   authors:
+#     T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+#   link:
+#     url: http://www.sciencemag.org/content/327/5962/181
+#     display: Science 327, 181 (2010)
+#   highlight: 1
+#   news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
+#   news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+
+# - title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
+#   image: Pub_hBN.png
+#   description:
+#     QPI in Sr327.
+#   authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
+#   link:
+#     url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
+#     display: Nature Physics 5, 800 (2009)
+#   highlight: 0
+
+# - title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
+#   image: Pub_hBN.png
+#   description:
+#     We determine the Fermi surface of Sr327.
+#   authors:
+#     A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+#   link:
+#     url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
+#     display: Phys. Rev. Lett. 101, 026407 (2008)
+#   highlight: 0
+
+# - title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
+#   image: Pub_hBN.png
+#   description:
+#     Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+#   authors:
+#     MP Allan, S Berner, M Corso, T Greber, J Osterwalder
+#   link:
+#     url: https://link.springer.com/article/10.1007/s11671-006-9036-2
+#     display: Nanoscale Research Letters 2, 94 (2007)
+#   highlight: 1
+
+# - title: Photoelectron Diffraction for a Look inside Nanostructures
+#   image: dummy.png
+#   description: ""
+#   authors:
+#     J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+#   link:
+#     url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
+#     display: CHIMIA 11, 759 (2006)
+#   highlight: 0

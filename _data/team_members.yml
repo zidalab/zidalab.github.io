@@ -1,0 +1,84 @@
+# - name: Zida Li
+#   photo: Zida.jpg
+#   info: Associate Professor
+#   email: zidali AT szu.edu.cn
+#   number_educ: 3
+#   education1: Ph.D. at University of Michigan (2013–2018)
+#   education2: RA at University of Hong Kong (2012–2013)
+#   education3: B.S. at University of Science and Technology of China (2008–2012)
+
+- name: Qi Fang
+  photo: Fangqi.jpg
+  info: Graduate Student
+  email: 779574160 AT qq.com
+  number_educ: 1
+  education1: B.S., Biomedical Engineering, Anhui Medical University (2018-2022)
+
+- name: Heng Zhai
+  photo: Zhaiheng.jpg
+  info: Graduate Student
+  email: zhaiheng1998 AT outlook.com
+  number_educ: 1
+  education1: B.S., Biomedical Engineering, Guangdong Medical University (2017-2021)
+
+- name: Wanjun Yao
+  photo: Wanjun.jpg
+  info: Graduate Student
+  email: yaowanjun2000 AT 163.com
+  number_educ: 1
+  education1: B.S., Electrical and Information Engineering, Zhejiang Sci-Tech University
+    (2018-2022)
+
+- name: Jiazhao Chen
+  photo: Jiazhao.jpg
+  info: Graduate Student
+  email: cjz524611714 AT gmail.com
+  number_educ: 1
+  education1: B.S., Biomedical Engineering, Shenzhen University (2019-2023)
+
+- name: Wenkai Fan
+  photo: Wenkai.jpg
+  info: Graduate Student
+  email: 936418429 AT qq.com
+  number_educ: 1
+  education1: B.S., Biomedical Engineering, Shenzhen University (2019-2023)
+
+- name: Yuchong Zheng
+  photo: Yuchong.png
+  info: Graduate Student
+  email: 634255151 AT qq.com
+  number_educ: 1
+  education1: B.S., Biotechnology, Shenzhen University (2019-2023)
+
+- name: Jiaying Zhu
+  photo: Jiaying.jpg
+  info: Graduate Student
+  email: 2021220050 AT email.szu.edu.cn
+  number_educ: 1
+  education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
+
+- name: Xiaona Huang
+  photo: Xiaona.jpg
+  info: Graduate Student
+  email: 2021220057 AT email.szu.edu.cn
+  number_educ: 1
+  education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
+
+- name: Zhenxu Huang
+  photo: Zhenxu.jpg
+  info: Graduate Student
+  email: HuaKAI0714 AT gmail.com
+  number_educ: 1
+  education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
+
+- name: Yisi Zheng
+  photo: Yisi.jpg
+  info: Graduate Student
+  email: 2021222017 AT email.szu.edu.cn
+  number_educ: 1
+  education1: B.S., Pharmaceutical Engineering, South China Agricultural University
+    (2021-2025)
+    
+
+
+
