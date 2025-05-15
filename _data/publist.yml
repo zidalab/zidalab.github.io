@@ -1,3 +1,33 @@
+- title: "Flow-LAMP: Label-free Digital LAMP using Scatter-based Flow Cytometry on Vortex-Generated Polydisperse Gel Beads"
+  image:
+  authors: Wanjun Yao, Weidong Zheng, <b>Zida Li</b>, et al.
+  description:
+  link:
+    url:
+    display: In Preparation
+  highlight: 0
+  news2:
+
+- title: "Precipitate-informed deep learning enables label-free multiplex digital nucleic acid testing in polydisperse droplets"
+  image:
+  authors: Jiazhao Chen, Jingyi Ding, Rui Deng, Meichi Jin, Yi Wang, <b>Zida Li</b>, et al.
+  description:
+  link:
+    url:
+    display: In Preparation
+  highlight: 0
+  news2:
+
+- title: "Materials-Driven Innovations in Digital Nucleic Acid Amplification Technologies: Transforming Molecular Diagnostics"
+  image:
+  authors: Jiazhao Chen, Kai Wu, Jingyi Ding, <b>Zida Li</b>, et al.
+  description:
+  link:
+    url:
+    display: In Revision
+  highlight: 0
+  news2:
+
 
 - title: "Reimagining POCT assays: Automated digital microfluidics for multiplex in vitro diagnostics"
   image:
@@ -5,7 +35,7 @@
   description:
   link:
     url: https://doi.org/10.1016/j.talanta.2025.128270
-    display: Talanta, in press (2025)
+    display: Talanta, 294, 128270 (2025)
   highlight: 0
   news2:
 
@@ -15,7 +45,7 @@
   description:
   link:
     url: https://doi.org/10.1016/j.talanta.2025.127924
-    display: Talanta, 127924 (2025)
+    display: Talanta, 292, 127924 (2025)
   highlight: 0
   news2:
 
