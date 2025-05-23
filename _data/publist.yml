@@ -1,6 +1,6 @@
 - title: "Flow-LAMP: Label-free Digital LAMP using Scatter-based Flow Cytometry on Vortex-Generated Polydisperse Gel Beads"
   image:
-  authors: Wanjun Yao, Weidong Zheng, <b>Zida Li</b>, et al.
+  authors: Wanjun Yao, Yuchong Zheng, Weidong Zheng, <b>Zida Li</b>, et al.
   description:
   link:
     url:
@@ -10,11 +10,11 @@
 
 - title: "Precipitate-informed deep learning enables label-free multiplex digital nucleic acid testing in polydisperse droplets"
   image:
-  authors: Jiazhao Chen, Jingyi Ding, Rui Deng, Meichi Jin, Yi Wang, <b>Zida Li</b>, et al.
+  authors: Jiazhao Chen, Jingyi Ding, Rui Deng, Yi Wang, <b>Zida Li</b>, et al.
   description:
   link:
     url:
-    display: In Preparation
+    display: Submitted
   highlight: 0
   news2:
 
