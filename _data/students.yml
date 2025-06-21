@@ -7,12 +7,14 @@
 #  education2:
 #  education3:
 #  education4:
-- name: Rui Deng
-  photo: Rui.jpg
+
+
+- name: Currently Vacant
+  photo: dummy.png
   info: Undergrad Student
   email: XX
   number_educ: 1
-  education1: B.S., Biomedical Engineering, Shenzhen University (2021-present)
+  education1: B.S., Biomedical Engineering, Shenzhen University (202x-present)
 
 
 

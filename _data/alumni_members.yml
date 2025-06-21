@@ -1,3 +1,40 @@
+- name: Qi Fang
+  photo: Fangqi.jpg
+  duration: 2022–2025, Master Student
+  current: Engineer, Dapu Biotech
+  email: 779574160 AT qq.com
+  thesis: Label-free digital LAMP based on impedance analysis
+  number_educ: 1
+  education1: B.S., Biomedical Engineering, Anhui Medical University (2018–2022)
+  education2:
+  education3:
+  education4:
+
+- name: Heng Zhai
+  photo: Zhaiheng.jpg
+  duration: 2022–2025, Master Student
+  current: TBD
+  email: zhaiheng1998 AT outlook.com
+  thesis: Single-cell sequencing system based on droplet fusion
+  number_educ: 1
+  education1: B.S., Biomedical Engineering, Guangdong Medical University (2017–2021)
+  education2:
+  education3:
+  education4:
+
+- name: Wanjun Yao
+  photo: Wanjun.jpg
+  duration: 2022–2025, Master Student
+  current: Education Industry
+  email: yaowanjun2000 AT 163.com
+  thesis: Quantitative analysis of EB virus based on polydisperse hydrogel microspheres and flow cytometry
+  number_educ: 1
+  education1: B.S., Electrical and Information Engineering, Zhejiang Sci-Tech University (2018–2022)
+  education2:
+  education3:
+  education4:
+
+
 - name: Meichi Jin
   photo: Meichi.jpg
   duration: 2021-2024, Master's student
