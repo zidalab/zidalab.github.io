@@ -18,15 +18,15 @@
   highlight: 0
   news2:
 
-- title: "From Droplets to Diagnosis: AI-Driven Imaging and System Integration in Digital Nucleic Acid Amplification Testing"
-  image:
-  authors: Yuanyuan Wei, Xianxian Liu, Yao Mu, Changran Xu, Guoxun Zhang, Tianhao Li, <b>Zida Li</b>, Wu Yuan, Ho-Pui Ho, and Mingkun Xu
-  description:
-  link:
-    url:
-    display: In Revision
-  highlight: 0
-  news2:
+# - title: "From Droplets to Diagnosis: AI-Driven Imaging and System Integration in Digital Nucleic Acid Amplification Testing"
+#   image:
+#   authors: Yuanyuan Wei, Xianxian Liu, Yao Mu, Changran Xu, Guoxun Zhang, Tianhao Li, <b>Zida Li</b>, Wu Yuan, Ho-Pui Ho, and Mingkun Xu
+#   description:
+#   link:
+#     url:
+#     display: In Revision
+#   highlight: 0
+#   news2:
 
 - title: "Materials-Driven Innovations in Digital Nucleic Acid Amplification Technologies: Transforming Molecular Diagnostics"
   image:
