@@ -87,7 +87,7 @@ These platforms challenge the conventional boundaries of genetic testing and sin
 
 <img src="{{site.utl}}{{site.baseurl}}/images/picpic/home_group_photo.jpg" width="95%" />   
 
-**Left to right**: Rui Deng, Zida Li, Heng Zhai, Zhenxu Huang, Jiaying Zhu, Qi Fang, Xiaona Huang, Wenkai Fan, Yuchong Zheng, and Wanjun Yao. 
+**Left to right**: Jiazhao Chen, Zhenxu Huang, Wenkai Fan, Junnan Zhong, Yisi Zheng, Zida Li, Huaer Chen, Xiaona Huang, Yuchong Zheng, and Jiaying Zhu. 
 
 [**More about the Team →**](team)
 
