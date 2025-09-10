@@ -1,30 +1,40 @@
-- title: "Flow-LAMP: Label-free Digital LAMP using Scatter-based Flow Cytometry on Vortex-Generated Polydisperse Gel Beads"
+- title: "AI-Guided Droplet Microreactors Enable Rapid and Reproducible Protein Crystallization"
   image:
-  authors: Wanjun Yao, Yuchong Zheng, Zerui Wu, Liqun He, Weidong Zheng, and <b>Zida Li</b>
+  authors: Guangzhu Shang, Peiyi Zheng, Hengzhi Ni, Shan Wei, Luoquan Li, Xingyue Lei, Zerui Wu, Xiaogang He, Zirui Wang,  Zhongliang Zhu, Huichao Ou, Liqun He,  <b>Zida Li</b>, Tengchuan Jin, Gang Zhao
   description:
   link:
     url:
-    display: Under review
+    display: Submitted
   highlight: 0
   news2:
 
-- title: "Precipitate-informed deep learning enables label-free multiplex digital nucleic acid testing in polydisperse droplets"
+- title: "Flow-LAMP: Label-free Digital LAMP using Scatter-based Flow Cytometry on Vortex-Generated Polydisperse Gel Beads"
   image:
-  authors: Jiazhao Chen, Jingyi Ding, Rui Deng, Yi Wang, and <b>Zida Li</b>
+  authors: Yuchong Zheng, Wanjun Yao, Zerui Wu, Liqun He, Weidong Zheng,* and <b>Zida Li</b>*
   description:
   link:
     url:
-    display: Under review
+    display: Analytical Chemistry, In Revision
+  highlight: 0
+  news2:
+
+- title: "StratoLAMP-2: A Microfluidics-Free, Deep-Learning Platform for Multiplex Digital Molecular Diagnostics"
+  image:
+  authors: Jiazhao Chen, Jingyi Ding, Rui Deng, Yi Wang,* and <b>Zida Li</b>*
+  description:
+  link:
+    url:
+    display: Analytical Chemistry, In Revision
   highlight: 0
   news2:
 
 - title: "From Droplets to Diagnosis: AI-Driven Imaging and System Integration in Digital Nucleic Acid Amplification Testing"
   image:
-  authors: Yuanyuan Wei, Xianxian Liu, Yao Mu, Changran Xu, Guoxun Zhang, Tianhao Li, <b>Zida Li</b>, Wu Yuan, Ho-Pui Ho, and Mingkun Xu
+  authors: Yuanyuan Wei, Xianxian Liu, Yao Mu, Changran Xu, Guoxun Zhang, Tianhao Li, <b>Zida Li</b>, Wu Yuan,* Ho-Pui Ho,* and Mingkun Xu*
   description:
   link:
-    url:
-    display: Biosensors and Bioelectronics, in press (2025)
+    url: https://doi.org/10.1016/j.bios.2025.117741
+    display: Biosensors and Bioelectronics, 288, 117741, (2025)
   highlight: 0
   news2:
 
@@ -34,7 +44,7 @@
   description:
   link:
     url: https://doi.org/10.1016/j.cej.2025.165127
-    display: Chemical Engineering Journal,  519, 165127, (2025)
+    display: Chemical Engineering Journal, 519, 165127, (2025)
   highlight: 0
   news2:
 
