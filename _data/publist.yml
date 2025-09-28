@@ -20,11 +20,11 @@
 
 - title: "StratoLAMP-2: A Microfluidics-Free, Deep-Learning Platform for Multiplex Digital Molecular Diagnostics"
   image:
-  authors: Jiazhao Chen, Jingyi Ding, Rui Deng, Yi Wang,* and <b>Zida Li</b>*
+  authors: Jiazhao Chen,# Jingyi Ding,# Rui Deng, Yi Wang,* and <b>Zida Li</b>*
   description:
   link:
     url:
-    display: Analytical Chemistry, In Revision
+    display: Analytical Chemistry, In Press
   highlight: 0
   news2:
 
