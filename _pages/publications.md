@@ -11,8 +11,6 @@ permalink: /publications/
 
 ## Selected
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications).**
-
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
@@ -50,6 +48,82 @@ permalink: /publications/
 {% endif %}
 
 <p> &nbsp; </p>
+
+
+<!-- ## Full List of publications
+
+{% for publi in site.data.publist %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %} -->
+
+
+## Full List of Publications
+
+{%- comment -%} In Press / Submitted first (original item layout) {%- endcomment -%}
+{% assign _has_inpress = false %}
+{% for publi in site.data.publist %}
+{% assign _disp = publi.link.display | default: "" %}
+{% assign _last = _disp | split: '(' | last | remove: ')' | strip %}
+{% assign _yy = _last | plus: 0 %}
+{% if _yy == 0 or _disp == "" or _disp contains "In Press" or _disp contains "Submitted" %}
+{% assign _has_inpress = true %}
+{% endif %}
+{% endfor %}
+
+{% if _has_inpress %}
+### In Press / Submitted
+{% for publi in site.data.publist %}
+{% assign _disp = publi.link.display | default: "" %}
+{% assign _last = _disp | split: '(' | last | remove: ')' | strip %}
+{% assign _yy = _last | plus: 0 %}
+{% if _yy == 0 or _disp == "" or _disp contains "In Press" or _disp contains "Submitted" %}
+{{ publi.title }} <br />
+<em>{{ publi.authors }}</em><br />{% if publi.link and publi.link.url %}<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% else %}{{ publi.link.display }}{% endif %}
+
+{% endif %}
+{% endfor %}
+{% endif %}
+
+{%- comment -%} Build unique list of numeric years (desc) {%- endcomment -%}
+{% capture _years %}{% endcapture %}
+{% for p in site.data.publist %}
+{% assign _disp = p.link.display | default: "" %}
+{% assign _last = _disp | split: '(' | last | remove: ')' | strip %}
+{% assign _y = _last | plus: 0 %}
+{% if _y > 0 %}
+{% assign _y_str = _y | append: "" %}
+{% unless _years contains _y_str %}
+{% capture _years %}{{ _years }}|{{ _y_str }}{% endcapture %}
+{% endunless %}
+{% endif %}
+{% endfor %}
+{% assign year_list = _years | split: '|' | uniq | sort | reverse %}
+
+{%- comment -%} Render each year header + original item layout {%- endcomment -%}
+{% for y in year_list %}
+{% if y != "" %}
+{% assign y_num = y | plus: 0 %}
+### {{ y }}
+
+{% for publi in site.data.publist %}
+{% assign _disp = publi.link.display | default: "" %}
+{% assign _last = _disp | split: '(' | last | remove: ')' | strip %}
+{% assign _yy = _last | plus: 0 %}
+{% if _yy == y_num %}
+{{ publi.title }} <br />
+<em>{{ publi.authors }}</em><br />{% if publi.link and publi.link.url %}<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% else %}{{ publi.link.display }}{% endif %}
+
+{% endif %}
+{% endfor %}
+{% endif %}
+{% endfor %}
+
+
+
+
 
 
 ## Patents
@@ -101,11 +175,4 @@ U.S. Patent Application, 62/304,385 (2018)
 System and method for generation of emulsions with low interfacial tension and measuring frequency vibrations in the system<br />
 U.S. Patent Application, 13/839,072 (2013)
 
-## Full List of publications
 
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
