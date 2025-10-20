@@ -60,9 +60,10 @@ permalink: /publications/
 {% endfor %} -->
 
 
+
 ## Full List of Publications
 
-{%- comment -%} In Press / Submitted first (original item layout) {%- endcomment -%}
+{%- comment -%} In Press / Submitted first {%- endcomment -%}
 {% assign _has_inpress = false %}
 {% for publi in site.data.publist %}
 {% assign _disp = publi.link.display | default: "" %}
@@ -87,13 +88,13 @@ permalink: /publications/
 {% endfor %}
 {% endif %}
 
-{%- comment -%} Build unique list of numeric years (desc) {%- endcomment -%}
+{%- comment -%} Build unique list of years > 2018 (descending) {%- endcomment -%}
 {% capture _years %}{% endcapture %}
 {% for p in site.data.publist %}
 {% assign _disp = p.link.display | default: "" %}
 {% assign _last = _disp | split: '(' | last | remove: ')' | strip %}
 {% assign _y = _last | plus: 0 %}
-{% if _y > 0 %}
+{% if _y > 2018 %}
 {% assign _y_str = _y | append: "" %}
 {% unless _years contains _y_str %}
 {% capture _years %}{{ _years }}|{{ _y_str }}{% endcapture %}
@@ -102,7 +103,7 @@ permalink: /publications/
 {% endfor %}
 {% assign year_list = _years | split: '|' | uniq | sort | reverse %}
 
-{%- comment -%} Render each year header + original item layout {%- endcomment -%}
+{%- comment -%} Render each year (>2018) with original item layout {%- endcomment -%}
 {% for y in year_list %}
 {% if y != "" %}
 {% assign y_num = y | plus: 0 %}
@@ -121,10 +122,31 @@ permalink: /publications/
 {% endif %}
 {% endfor %}
 
+{%- comment -%} Render the 2018-and-earlier bucket {%- endcomment -%}
+{% assign _has_2018earlier = false %}
+{% for publi in site.data.publist %}
+{% assign _disp = publi.link.display | default: "" %}
+{% assign _last = _disp | split: '(' | last | remove: ')' | strip %}
+{% assign _yy = _last | plus: 0 %}
+{% if _yy > 0 and _yy <= 2018 %}
+{% assign _has_2018earlier = true %}
+{% endif %}
+{% endfor %}
 
+{% if _has_2018earlier %}
+### 2018 and earlier
 
+{% for publi in site.data.publist %}
+{% assign _disp = publi.link.display | default: "" %}
+{% assign _last = _disp | split: '(' | last | remove: ')' | strip %}
+{% assign _yy = _last | plus: 0 %}
+{% if _yy > 0 and _yy <= 2018 %}
+{{ publi.title }} <br />
+<em>{{ publi.authors }}</em><br />{% if publi.link and publi.link.url %}<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% else %}{{ publi.link.display }}{% endif %}
 
-
+{% endif %}
+{% endfor %}
+{% endif %}
 
 ## Patents
 <em><b>Zida Li</b>, Tao Wang, Yongjin Zhou, Zengtong Chen</em><br />
