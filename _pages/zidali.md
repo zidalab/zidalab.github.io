@@ -10,13 +10,11 @@ permalink: /zidali/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Zida.jpg" class="img-responsive" width="25%" style="float: left" />
   <h4>[Zida Li](/zidali)</h4>
   <i>Associate Professor</i> <br>
+  Biomedical Engineering <br>
+  Shenzhen University<br>
   email: zidali AT szu.edu.cn<br>
-  <ul style="overflow: hidden">
-  <li>Ph.D. at University of Michigan (2013–2018)</li>
-  <li>RA at University of Hong Kong (2012–2013)</li>
-  <li>B.S. at University of Science and Technology of China (2008–2012)</li>
-  </ul>
-  Details please see my <a href = "https://scholar.google.com/citations?user=9s8iCB0AAAAJ&amp;hl=en" target="_blank">Scholar</a>, <a href="{{ site.url }}{{ site.baseurl }}/downloads/CV-Chinese.pdf" target="_blank">简历</a> or <a href="{{ site.url }}{{ site.baseurl }}/downloads/CV-English.pdf" target="_blank">CV</a>
+
+  Details please see <a href = "https://scholar.google.com/citations?user=9s8iCB0AAAAJ&amp;hl=en" target="_blank">Scholar</a>, <a href="{{ site.url }}{{ site.baseurl }}/downloads/CV-Chinese.pdf" target="_blank">简历</a> or <a href="{{ site.url }}{{ site.baseurl }}/downloads/CV-English.pdf" target="_blank">CV</a>
 </div>
 
 </div>
