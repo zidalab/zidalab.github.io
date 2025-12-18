@@ -95,9 +95,10 @@ These platforms challenge the conventional boundaries of genetic testing and sin
 
 ## 📣 Join the Lab
 
-We welcome self-motivated students and postdocs interested in cutting-edge diagnostics and microfluidics. Contact us to explore opportunities.
+We are always excited to connect with highly motivated students and postdoctoral researchers who are passionate about advancing diagnostics and microfluidics. If you’re interested in joining our collaborative and innovative research environment, we’d love to hear from you.
 
-[**Contact Zida →**](zidali)
+[**Postdoctoral Opportunities →**](postdoc) &nbsp;&nbsp; [**Contact Zida →**](zidali)
+
 
 ---
 
