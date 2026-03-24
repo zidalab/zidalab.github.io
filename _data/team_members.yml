@@ -7,6 +7,12 @@
 #   education2: RA at University of Hong Kong (2012–2013)
 #   education3: B.S. at University of Science and Technology of China (2008–2012)
 
+- name: Yuchong Zheng
+  photo: Yuchong.png
+  info: Graduate Student
+  email: 634255151 AT qq.com
+  number_educ: 1
+  education1: B.S., Biotechnology, Shenzhen University (2019-2023)
 
 - name: Jiazhao Chen
   photo: Jiazhao.jpg
@@ -21,13 +27,6 @@
   email: 936418429 AT qq.com
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2019-2023)
-
-- name: Yuchong Zheng
-  photo: Yuchong.png
-  info: Graduate Student
-  email: 634255151 AT qq.com
-  number_educ: 1
-  education1: B.S., Biotechnology, Shenzhen University (2019-2023)
 
 - name: Jiaying Zhu
   photo: Jiaying.jpg
