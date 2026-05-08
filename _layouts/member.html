@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<div id="textid" class="col-sm-12">
+  {% assign profile_member = nil %}
+  {% if page.member_key %}
+    {% for member in site.data.team_members %}
+      {% assign member_slug = member.name | slugify %}
+      {% if member_slug == page.member_key %}
+        {% assign profile_member = member %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  <article class="member-profile-page">
+    {% if page.lang == "zh" %}
+    <a class="member-profile-back" href="{{ site.url }}{{ site.baseurl }}/zh/team/">返回团队成员</a>
+    {% else %}
+    <a class="member-profile-back" href="{{ site.url }}{{ site.baseurl }}/team/">Back to Team</a>
+    {% endif %}
+    <h1>{% if page.lang == "zh" and profile_member %}{{ profile_member.name_zh }}{% else %}{{ page.member_name }}{% endif %}</h1>
+    <div class="member-profile-photo">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ page.photo }}" alt="{{ page.member_name }}" />
+    </div>
+    <div class="member-profile-intro">
+      {% if profile_member %}
+        {% if page.lang == "zh" %}
+      <p>{{ profile_member.intro_zh }}</p>
+        {% else %}
+      <p>{{ profile_member.intro_en }}</p>
+        {% endif %}
+      {% else %}
+      {{ content }}
+      {% endif %}
+    </div>
+  </article>
+</div>

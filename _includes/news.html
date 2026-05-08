@@ -1,11 +1,19 @@
 
 <div class="well">
-<h4></i>News</h4>
+<h4>{% if page.lang == "zh" %}新闻{% else %}News{% endif %}</h4>
 
+{% if page.lang == "zh" %}
+{% for article in site.data.news_zh limit:9 %}
+<p><i>{{ article.date }}</i><br>{{ article.headline | markdownify}}</p>
+{% endfor %}
+
+<h4><a href="{{ site.url }}{{ site.baseurl }}/zh/news/">... 查看全部新闻</a></h4>
+{% else %}
 {% for article in site.data.news limit:9 %}
 <p><i>{{ article.date }}</i><br>{{ article.headline | markdownify}}</p>
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+{% endif %}
 
     </div>

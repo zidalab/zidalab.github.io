@@ -1,0 +1,430 @@
+- title: "Signal Physics of Digital Nucleic Acid Amplification: From Fluorescence to AI-Enabled Label-Free Detection"
+  image:
+  authors: Junnan Zhong, <b>Zida Li</b>, and co.
+  description:
+  link:
+    url: http://doi.org 
+    display: in preparation (2026)
+  highlight: 0
+  news2:
+
+- title: "SAGE: A Smart AI-Guided Expertise Platform for Real-Time Quality Control and Optimization in Precision Molecular Diagnostics"
+  image:
+  authors: Junnan Zhong, <b>Zida Li</b>, and co.
+  description:
+  link:
+    url: http://doi.org
+    display: in preparation (2026)
+  highlight: 0
+  news2:
+
+- title: "AI-Guided Droplet Microreactors Enable Rapid and Reproducible Protein Crystallization"
+  image:
+  authors: Guangzhu Shang, Peiyi Zheng, Hengzhi Ni, Shan Wei, Luoquan Li, Xingyue Lei, Zerui Wu, Xiaogang He, Zirui Wang,  Zhongliang Zhu, Huichao Ou, Liqun He,*  <b>Zida Li</b>,* Tengchuan Jin,* and Gang Zhao*
+  description:
+  link:
+    url: http://doi.org/10.1002/smll.202510977
+    display: Small, 22(15), e10977 (2026)
+  highlight: 0
+  news2:
+
+- title: "Flow-LAMP: Label-free Digital LAMP using Scatter-based Flow Cytometry on Vortex-Generated Polydisperse Gel Beads"
+  image:
+  authors: Yuchong Zheng, Wanjun Yao, Zerui Wu, Liqun He, Weidong Zheng,* and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1021/acs.analchem.5c04768
+    display: Analytical Chemistry, 97(41), 22878–22886 (2025)
+  highlight: 0
+  news2:
+
+- title: "StratoLAMP-2: A Microfluidics-Free, Deep-Learning Platform for Multiplex Digital Molecular Diagnostics"
+  image:
+  authors: Jiazhao Chen,# Jingyi Ding,# Rui Deng, Yi Wang,* and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1021/acs.analchem.5c04408
+    display: Analytical Chemistry, 97(40), 22259–22269 (2025)
+  highlight: 0
+  news2:
+
+- title: "From Droplets to Diagnosis: AI-Driven Imaging and System Integration in Digital Nucleic Acid Amplification Testing"
+  image:
+  authors: Yuanyuan Wei, Xianxian Liu, Yao Mu, Changran Xu, Guoxun Zhang, Tianhao Li, <b>Zida Li</b>, Wu Yuan,* Ho-Pui Ho,* and Mingkun Xu*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.bios.2025.117741
+    display: Biosensors and Bioelectronics, 288, 117741 (2025)
+  highlight: 0
+  news2:
+
+- title: "Materials-Driven Innovations in Digital Nucleic Acid Amplification Technologies: Transforming Molecular Diagnostics"
+  image:
+  authors: Jiazhao Chen, Kai Wu, Jingyi Ding, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.cej.2025.165127
+    display: Chemical Engineering Journal, 519, 165127 (2025)
+  highlight: 0
+  news2:
+
+
+- title: "Reimagining POCT assays: Automated digital microfluidics for multiplex in vitro diagnostics"
+  image:
+  authors: Wenkai Fan, Donghao Li, Jingyi Ding, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.talanta.2025.128270
+    display: Talanta, 294, 128270 (2025)
+  highlight: 0
+  news2:
+
+- title: "Droplet digital PCR-based single aptamer selection"
+  image:
+  authors: Zerui Wu,# Wanjun Yao,# Jinyu Chen, Yonghao Chen, <b>Zida Li</b>, Weiping Ding,* Liqun He,* and Peng Hu*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.talanta.2025.127924
+    display: Talanta, 292, 127924 (2025)
+  highlight: 0
+  news2:
+
+- title: "Embracing Poisson encapsulation statistics for improved droplet digital immunoassay"
+  image: 2025_AC_Chai.png
+  authors: Yujuan Chai, Xiaoxiang Hu, Qi Fang, Yuanyuan Guo, Binmao Zhang, Hangjia Tu, and <b>Zida Li</b>*
+  description: This study introduces a new type of ultra-sensitive protein detection method called inclusive droplet digital ELISA (iddELISA). Unlike traditional digital tests that only use droplets with one bead, this method uses all droplets—even those with multiple beads—by applying a smart statistical model. This improves both the efficiency and accuracy of detection. Demonstrated with COVID-19 nucleocapsid protein, the new method achieved detection limits far lower than existing techniques. This innovation could help in early disease diagnosis where protein levels are extremely low.
+  link:
+    url: https://doi.org/10.1021/acs.analchem.4c04552
+    display: Anal. Chem. 97(1), 444–453 (2025)
+  highlight: 1
+  news2:
+
+- title: "StratoLAMP: Label-free, multiplex digital loop-mediated isothermal amplification based on visual stratification of precipitate"
+  image: 2024_PNAS_Jin.png
+  description: We developed StratoLAMP, a new method for detecting multiple genetic targets without the need for complex or costly fluorescent labels. Instead, we use a natural byproduct from a common DNA amplification reaction—tiny particles that form during the process—as a visual signal. By carefully designing the system, we can tell which genes are present just by looking at the amount of these particles in each droplet. We then use AI-powered image analysis to interpret the results with high accuracy. StratoLAMP makes genetic testing simpler, more affordable, and better suited for use outside of high-tech labs—an exciting step toward more accessible diagnostics.
+  authors: Meichi Jin,# Jingyi Ding,# Yu Zhou, Jiazhao Chen, Yi Wang, and <b>Zida Li</b>*
+  link:
+    url: https://www.pnas.org/doi/10.1073/pnas.2314030121
+    display: Proc. Natl. Acad. Sci. U.S.A., 121(2), e2314030121 (2024)
+  highlight: 1
+
+
+- title: "Image-activated pico-injection for single cell analysis"
+  image:
+  authors: Zhantao Zhao, Heng Zhai, Peng Zuo, Tao Wang, Run Xie, Mu Tian, Ruyuan Song, Xiaonan Xu, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.talanta.2024.125765
+    display: Talanta 272, 125765 (2024)
+  highlight: 0
+  news2:
+
+
+
+- title: "CoID-LAMP: Color-encoded, intelligent digital LAMP for multiplexed nucleic acid quantification"
+  image: 2023_AC_Wu.png
+  authors: Kai Wu,# Qi Fang,# Zhantao Zhao, and <b>Zida Li</b>*
+  description: This paper introduces CoID-LAMP, a new method for detecting and measuring multiple genetic materials (nucleic acids) simultaneously. Instead of using complicated fluorescent tags for each target, CoID-LAMP uses simple colored droplets and deep learning image analysis to identify and count different genetic targets. The system pairs color-coded primer droplets with sample droplets on a small chip, allowing the reaction to take place and be observed with basic imaging tools. The method works accurately with both fluorescent and non-fluorescent (brightfield) dyes, making it low-cost and user-friendly. This technology could help make genetic testing faster, easier, and more accessible.
+  link:
+    url: https://doi.org/10.1021/acs.analchem.2c05665
+    display: Anal. Chem. 95(11), 5069–5078 (2023)
+  highlight: 1
+  news2:
+
+
+- title: "Combinatorial perturbation sequencing on single cells using microwell-based droplet random pairing"
+  image: 2022_BB_Xie.png
+  authors: Run Xie,# Yang Liu,# Shiyu Wang, Xuyang Shi, Zhantao Zhao, Longqi Liu, Ya Liu,* and <b>Zida Li</b>*
+  description: This study introduces a new technology called CP-seq, which helps researchers test combinations of drugs on individual cells. It works by tagging each drug with a unique barcode and using microfluidic devices to randomly mix drugs with cells in tiny droplets. After treatment, scientists can read both the cell's genetic response and the drug combination it received. This method allows thousands of drug combinations to be tested quickly and efficiently, offering a powerful tool for discovering better treatments and reducing drug resistance.
+  link:
+    url: https://doi.org/10.1016/j.bios.2022.114913
+    display: Biosens. Bioelectron. 220, 114913 (2023)
+  highlight: 1
+  news2:
+
+
+- title: "High resolution, multiplex antibody patterning using micropillar-focused droplet printing and microcontact printing"
+  image:
+  authors: Meichi Jin, Kai Wu, Mengzhen Wang, Yang Zhang, Chengbin Yang, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1002/adbi.202300111
+    display: Adv. Biol. 7(8), 2300111 (2023)
+  highlight: 0
+  news2:
+
+
+- title: "Bone-on-a-chip platforms and integrated biosensors: towards advanced in vitro bone models with real-time biosensing"
+  image:
+  authors: Yang Zhang, Taozhao Yu, Jingyi Ding, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.bios.2022.114798
+    display: Biosens. Bioelectron. 219, 114798 (2023)
+  highlight: 0
+  news2:
+
+
+- title: "deep-dLAMP: deep learning-enabled polydisperse emulsion-based digital loop-mediated isothermal amplification"
+  image: 2022_AS_Chen.png
+  authors: Linzhe Chen,# Jingyi Ding,# Hao Yuan, Chi Chen,* and <b>Zida Li</b>*
+  description: This study introduces "deep-dLAMP," a low-cost method for quantifying nucleic acids using common lab equipment and advanced deep learning. Instead of requiring expensive tools to create uniform droplets, the method uses simple vortex mixing to produce droplets of various sizes and applies deep learning to analyze images of these droplets. It identifies whether each droplet contains a DNA amplification product by detecting visible precipitates, and then calculates the DNA concentration based on droplet size and occupancy using statistical models. This method is accurate, robust across different conditions, and has the potential to be widely used in labs or point-of-care testing.
+  link: 
+    url: https://doi.org/10.1002/advs.202105450
+    display: Adv. Sci. 9(9), 2105450 (2022)
+  highlight: 1
+  news2:
+
+
+- title: "Point-of-care blood coagulation assay based on dynamic monitoring of blood viscosity using droplet microfluidics"
+  image: 2022_ACSSensors_Chen.png
+  authors: Linzhe Chen, Donghao Li, Xinyu Liu, Yihan Xie, Jieying Shan, Haofan Huang, Xiaxia Yu, Yudan Chen, Weidong Zheng, and <b>Zida Li</b>*
+  description: This study presents a new, easy-to-use blood testing device that measures how quickly blood clots, which is important for surgeries and managing certain diseases. The device works by mixing blood with a buffer in tiny droplets and tracking how the color of these droplets changes as the blood becomes thicker (more viscous). By analyzing the droplet colors, the system can determine the blood’s clotting behavior. The researchers also built a simple, portable version of the device, showing that it could be used outside traditional labs, such as in clinics or emergency situations.
+  link:
+    url: https://doi.org/10.1021/acssensors.1c02360
+    display: ACS Sens. 7(8), 2170–2177 (2022)
+  highlight: 1
+  news2:
+
+- title: "Generation and Screening of Antigen-Specific Nanobodies from Mammalian Cells Expressing the BCR Repertoire Library Using Droplet-Based Microfluidics"
+  image:
+  authors: Menghua Lyu,# Xuyang Shi,# Xiaopan Liu,# Yang Liu, Xijun Zhu, Lijuan Liao, Hongyan Zhao, Na Sun, Shiyu Wang, Linzhe Chen, Linyuan Fan, Qumiao Xu, Qianqian Zhu, Kai Gao, Huaying Chen, Yonggang Zhu, <b>Zida Li</b>, Weijin Guo, Yue Zheng, Ying Gu, Longqi Liu,* Meiniang Wang,* and Ya Liu*
+  description:
+  link:
+    url: https://doi.org/10.1021/acs.analchem.2c00865
+    display: Anal. Chem. 94(22), 7970–7980 (2022)
+  highlight: 0
+  news2:
+
+- title: "Point-of-care blood coagulation assay enabled by printed circuit board-based digital microfluidics"
+  image:
+  authors: Donghao Li,# Xinyu Liu,# Yujuan Chai,# Jieying Shan, Yihan Xie, Yong Liang, Susu Huang, Weidong Zheng, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1039/D1LC00981H
+    display: Lab Chip 22(4), 709-716 (2022)
+  highlight: 0
+  news2:
+
+
+- title: "Single-cell sequencing to unveil the mystery of embryonic development"
+  image:
+  authors: <b>Zida Li</b>,#,* Feng Lin,# Chu-Han Zhong, Shue Wang, Xufeng Xue, and Yue Shao*
+  description:
+  link:
+    url: https://doi.org/10.1002/adbi.202101151
+    display: Adv. Biol. 6(2), 2101151 (2022)
+  highlight: 0
+  news2:
+
+- title: "High-throughput functional screening of antigen-specific T-cells based on droplet microfluidics on single-cell level"
+  image:
+  authors: Shiyu Wang,# Yang Liu,# Yijian Li, Menghua Lv, Kai Gao, Ying He, Wenbo Wei, Yonggang Zhu, Xuan Dong, Xun Xu, <b>Zida Li</b>,* Longqi Liu,* and Ya Liu*
+  description:
+  link:
+    url: https://doi.org/10.1021/acs.analchem.1c03678
+    display: Anal. Chem. 94(2), 918–926 (2022)
+  highlight: 0
+  news2:
+
+- title: "Emerging biosensing technologies for improved diagnostics of COVID-19 and future pandemics"
+  image:
+  authors: Linzhe Chen, Guoliang Zhang, Longqi Liu*, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.talanta.2020.121986
+    display: Talanta 225, 121986 (2021)
+  highlight: 0
+  news2:
+
+- title: "Micro-engineered flexural post rings for effective blood sample fencing and high throughput measurement of clot retraction force"
+  image:
+  authors: Lanzhu Huang,# Xinyu Liu,# Yuanbin Ou, Haofan Huang, Xia Zhang, Yize Wang, Yong Liang, Xiaxia Yu, Weidong Zheng, Huisheng Zhang, and <b>Zida Li</b>*
+  description:
+  link:
+    url: https://doi.org/10.1021/acssensors.0c01596
+    display: ACS Sens. 5(12), 3949-3955 (2020)
+  highlight: 0
+  news2:
+
+- title: "Recent advances in solar-driven evaporation system"
+  image:
+  authors: Zhourui Xu, <b>Zida Li</b>, Yihang Jiang, Gaixia Xu, Mingwei Zhu, Wing-Cheung Law, Ken-Tye Yong, Yanshuai Wang, Chengbin Yang, Biqin Dong, and Feng Xing*
+  description:
+  link:
+    url: https://doi.org/10.1039/D0TA08869B
+    display: J. Mater. Chem. A 8, 25571-25600 (2020)
+  highlight: 0
+  news2:
+
+- title: "Stretchable supercapacitors as emergent energy storage units for health monitoring bioelectronics"
+  image:
+  authors: Xue Chen, Nicolo Simone Villa, Yanfeng Zhuang, Linzhe Chen, Tianfu Wang, <b>Zida Li</b>*, and Tiantian Kong*
+  description:
+  link:
+    url: https://doi.org/10.1002/aenm.201902769
+    display: Adv. Energy Mater. 10(4), 1902769 (2020)
+  highlight: 0
+  news2:
+
+- title: "Dean flow assisted single cell and bead encapsulation for high performance single cell expression profiling"
+  image:
+  authors: Luoquan Li,# Ping Wu,# Zhaofeng Luo, Lei Wang, Weiping Ding, Tao Wu, Jinyu Chen, Jinlong He, Yi He, Heran Wang, Ying Chen, Guibo Li, <b>Zida Li</b>,* and Liqun He*
+  description:
+  link:
+    url: https://doi.org/10.1021/acssensors.9b00171
+    display: ACS Sens. 4(5), 1299-1305 (2019)
+  highlight: 0
+  news2:
+
+- title: "Multiple splitting of droplets using multi-furcating microfluidic channels"
+  image:
+  authors: <b>Zida Li</b>*, Luoquan Li, Meixiang Liao, Liqun He, and Ping Wu*
+  description:
+  link:
+    url: https://doi.org/10.1063/1.5086716
+    display: Biomicrofluidics 13(2), 024112 (2019)
+  highlight: 0
+  news2:
+
+
+- title: "Controlled modeling of human epiblast and amnion development using stem cells"
+  image: dummy.png
+  authors: Yi Zheng, Xufeng Xue, Yue Shao, Sicong Wang, Sajedeh Nasr Esfahani, <b>Zida Li</b>, Jonathon M. Muncie, Johnathon N. Lakins, Valerie M. Weaver, Deborah L. Gumucio, and Jianping Fu*
+  description: Early human embryonic development involves extensive lineage diversification, cell-fate specification and tissue patterning1. Despite its basic and clinical importance, early human embryonic development remains relatively unexplained owing to interspecies divergence2,3 and limited accessibility to human embryo samples. Here we report that human pluripotent stem cells (hPSCs) in a microfluidic device recapitulate, in a highly controllable and scalable fashion, landmarks of the development of the epiblast and amniotic ectoderm parts of the conceptus, including lumenogenesis of the epiblast and the resultant pro-amniotic cavity, formation of a bipolar embryonic sac, and specification of primordial germ cells and primitive streak cells. We further show that amniotic ectoderm-like cells function as a signalling centre to trigger the onset of gastrulation-like events in hPSCs. Given its controllability and scalability, the microfluidic model provides a powerful experimental system to advance knowledge of human embryology and reproduction. This model could assist in the rational design of differentiation protocols of hPSCs for disease modelling and cell therapy, and in high-throughput drug and toxicity screens to prevent pregnancy failure and birth defects.
+  link:
+    url: https://doi.org/10.1038/s41586-019-1535-2
+    display: Nature 573(7774), 421-425 (2019)
+  highlight: 0
+  news2:
+
+- title: "Dorsal-ventral patterned neural cyst from human pluripotent stem cells in a neurogenic niche"
+  image: dummy.png
+  authors: Yuanyuan Zheng,# Xufeng Xue,# Agnes M. Resto Irizarry, <b>Zida Li</b>, Yue Shao, Yi Zheng, Gang Zhao,* and Jianping Fu*
+  description: Despite its importance in central nervous system development, development of the human neural tube (NT) remains poorly understood, given the challenges of studying human embryos, and the developmental divergence between humans and animal models. We report a human NT development model, in which NT-like tissues, neuroepithelial (NE) cysts, are generated in a bioengineered neurogenic environment through self-organization of human pluripotent stem cells (hPSCs). NE cysts correspond to the neural plate in the dorsal ectoderm and have a default dorsal identity. Dorsal-ventral (DV) patterning of NE cysts is achieved using retinoic acid and/or sonic hedgehog and features sequential emergence of the ventral floor plate, P3, and pMN domains in discrete, adjacent regions and a dorsal territory progressively restricted to the opposite dorsal pole. This hPSC-based, DV patterned NE cyst system will be useful for understanding the self-organizing principles that guide NT patterning and for investigations of neural development and neural disease.
+  link:
+    url: https://doi.org/10.1126/sciadv.aax5933
+    display: Sci. Adv. 5(12), eaax5993 (2019)
+  highlight: 0
+  news2:
+
+
+- title: "Microengineered human amniotic ectoderm tissue array for high-content developmental phenotyping"
+  image:
+  authors: Sajedeh Nasr Esfahani, Yue Shao, Agnes M Resto Irizarry, <b>Zida Li</b>, Xufeng Xue, Deborah L Gumucio, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.biomaterials.2019.119244
+    display: Biomaterials 216, 119244 (2019)
+  highlight: 0
+  news2:
+
+- title: "Biophysical phenotypes and determinants of anterior vs. posterior primitive streak cells derived from human pluripotent stem cells"
+  image:
+  authors: Feng Lin, Yue Shao, Xufeng Xue, Yi Zheng, <b>Zida Li</b>, Chunyang Xiong*, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.actbio.2019.01.017
+    display: Acta Biomater. 86, 125-134 (2019)
+  highlight: 0
+  news2:
+
+- title: "Carbon nanotube strain sensor based hemoretractometer for blood coagulation testing"
+  image:
+  authors: <b>Zida Li</b>, Yize Wang, Xufeng Xue, Brendan McCracken, Kevin Ward, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1021/acssensors.7b00971
+    display: ACS Sens. 3(3), 670-676 (2018)
+  highlight: 0
+  news2:
+
+- title: "Capillary assisted deposition of carbon nanotube film for strain sensing"
+  image:
+  authors: <b>Zida Li</b>, Xufeng Xue, Feng Lin, Yize Wang, Kevin Ward, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1063/1.5001754
+    display: Appl. Phys. Lett. 111(17), 173105 (2017)
+  highlight: 0
+  news2:
+
+- title: "Tracking the tumor invasion front using long-term fluidic tumoroid culture"
+  image:
+  authors: Koh Meng Aw Yong, <b>Zida Li</b>, Sofia D. Merajver, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1038/s41598-017-10874-1
+    display: Sci. Rep. 7, (2017)
+  highlight: 0
+  news2:
+
+- title: "Acoustic tweezing cytometry enhances osteogenesis of human mesenchymal stem cells through cytoskeletal contractility and YAP activation"
+  image:
+  authors: Xuefeng Xue, Xiaowei Hong, <b>Zida Li</b>, Cheri X. Deng, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.biomaterials.2017.04.039
+    display: Biomaterials 134, 22-30 (2017)
+  highlight: 0
+  news2:
+
+- title: "Controlled tubular unit formation from collagen film for modular tissue engineering"
+  image:
+  authors: Jianming Sang, Xiang Li, Yue Shao, <b>Zida Li</b>, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1021/acsbiomaterials.6b00468
+    display: ACS Biomater. Sci. Eng. 3(11), 2860-2868 (2016)
+  highlight: 0
+  news2:
+
+- title: "A miniaturized hemoretractometer for blood clot retraction testing"
+  image:
+  authors: <b>Zida Li</b>, Xiang Li, Brendan McCracken, Yue Shao, Kevin Ward, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1002/smll.201600274
+    display: Small 12, 3926–3934 (2016)
+  highlight: 0
+  news2:
+
+- title: "Musical interfaces: visualization and reconstruction of music with a microfluidic two-phase flow"
+  image:
+  authors: Sze Yi Mak, <b>Zida Li</b>, Arnaud Frere, Tat Chuen Chan, and Ho Cheung Shum*
+  description:
+  link:
+    url: https://doi.org/10.1038/srep06675
+    display: Sci. Rep. 4, 6675 (2014)
+  highlight: 0
+  news2:
+
+- title: "Syringe-pump-induced fluctuation in all-aqueous microfluidic system implications for flow rate accuracy"
+  image:
+  authors: <b>Zida Li</b>, Sze Yi Mak, Alban Sauret, and Ho Cheung Shum*
+  description:
+  link:
+    url: https://doi.org/10.1039/c3lc51176f
+    display: Lab Chip 14(4), 744-749 (2014)
+  highlight: 0
+  news2:
+
+- title: "Emerging microengineered tools for functional analysis and phenotyping of blood cells"
+  image:
+  authors: Xiang Li, Weiqiang Chen, <b>Zida Li</b>, Ling Li, Hongchen Gu, and Jianping Fu*
+  description:
+  link:
+    url: https://doi.org/10.1016/j.tibtech.2014.09.003
+    display: Trends Biotechnol. 32(11), 586-594 (2014)
+  highlight: 0
+  news2:
+
+- title: "Dynamics for dense packing of colloids"
+  image:
+  authors: Liqun He*, Ping Wu, <b>Zida Li</b>, and Lili Feng
+  description:
+  link:
+    url: https://doi.org/10.4028/www.scientific.net/AMR.465.248
+    display: Adv. Mater. Res. 165, 248-254 (2012)
+  highlight: 0
+  news2:

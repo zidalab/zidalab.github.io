@@ -1,74 +1,100 @@
-# - name: Zida Li
-#   photo: Zida.jpg
-#   info: Associate Professor
-#   email: zidali AT szu.edu.cn
-#   number_educ: 3
-#   education1: Ph.D. at University of Michigan (2013–2018)
-#   education2: RA at University of Hong Kong (2012–2013)
-#   education3: B.S. at University of Science and Technology of China (2008–2012)
+# Core members. Personal profile pages read intro_en / intro_zh from this file.
 
 - name: Yuchong Zheng
+  name_zh: 郑雨憧
   photo: Yuchong.png
   info: Graduate Student
   email: 634255151 AT qq.com
   number_educ: 1
   education1: B.S., Biotechnology, Shenzhen University (2019-2023)
+  education1_zh: 深圳大学生物技术专业，理学学士（2019-2023）
+  intro_en: Hi, I am Yuchong Zheng, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
+  intro_zh: 大家好，我是郑雨憧，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
 
 - name: Jiazhao Chen
+  name_zh: 陈佳兆
   photo: Jiazhao.jpg
   info: Graduate Student
   email: cjz524611714 AT gmail.com
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2019-2023)
+  education1_zh: 深圳大学生物医学工程专业，工学学士（2019-2023）
+  intro_en: Hi, I am Jiazhao Chen, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
+  intro_zh: 大家好，我是陈佳兆，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
 
 - name: Wenkai Fan
+  name_zh: 范文楷
   photo: Wenkai.jpg
   info: Graduate Student
   email: 936418429 AT qq.com
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2019-2023)
+  education1_zh: 深圳大学生物医学工程专业，工学学士（2019-2023）
+  intro_en: Hi, I am Wenkai Fan, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
+  intro_zh: 大家好，我是范文楷，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
 
 - name: Jiaying Zhu
+  name_zh: 朱嘉盈
   photo: Jiaying.jpg
   info: Graduate Student
   email: 2021220050 AT email.szu.edu.cn
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
+  education1_zh: 深圳大学生物医学工程专业，工学学士（2021-2025）
+  intro_en: Hi, I am Jiaying Zhu, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
+  intro_zh: 大家好，我是朱嘉盈，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
 
 - name: Xiaona Huang
+  name_zh: 黄晓娜
   photo: Xiaona.jpg
   info: Graduate Student
   email: 2021220057 AT email.szu.edu.cn
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
+  education1_zh: 深圳大学生物医学工程专业，工学学士（2021-2025）
+  intro_en: Hi, I am Xiaona Huang, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
+  intro_zh: 大家好，我是黄晓娜，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
 
 - name: Zhenxu Huang
+  name_zh: 黄振栩
   photo: Zhenxu.jpg
   info: Graduate Student
   email: HuaKAI0714 AT gmail.com
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
+  education1_zh: 深圳大学生物医学工程专业，工学学士（2021-2025）
+  intro_en: Hi, I am Zhenxu Huang, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
+  intro_zh: 大家好，我是黄振栩，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
 
 - name: Yisi Zheng
+  name_zh: 郑翊思
   photo: Yisi.jpg
   info: Graduate Student
   email: 2502036310 AT qq.com
   number_educ: 1
-  education1: B.S., Pharmaceutical Engineering, South China Agricultural University
-    (2021-2025)
-    
+  education1: B.S., Pharmaceutical Engineering, South China Agricultural University (2021-2025)
+  education1_zh: 华南农业大学制药工程专业，工学学士（2021-2025）
+  intro_en: Hi, I am Yisi Zheng, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
+  intro_zh: 大家好，我是郑翊思，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
+
 - name: Junnan Zhong
+  name_zh: 钟俊男
   photo: Junnan.jpg
   info: Graduate Student
   email: 2531546623 AT qq.com
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
+  education1_zh: 深圳大学生物医学工程专业，工学学士（2021-2025）
+  intro_en: Hi, I am Junnan Zhong, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
+  intro_zh: 大家好，我是钟俊男，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
 
 - name: Huaer Chen
+  name_zh: 陈华儿
   photo: Huaer.jpg
   info: Graduate Student
   email: 1160781978 AT qq.com
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
-
-
+  education1_zh: 深圳大学生物医学工程专业，工学学士（2021-2025）
+  intro_en: Hi, I am Huaer Chen, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
+  intro_zh: 大家好，我是陈华儿，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。

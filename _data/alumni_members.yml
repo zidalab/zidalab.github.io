@@ -1,156 +1,155 @@
 - name: Qi Fang
+  name_zh: 方琪
   photo: Fangqi.jpg
-  duration: 2022–2025, Master Student
+  duration: 2022-2025, Master Student
+  duration_zh: 2022-2025，硕士研究生
   current: Engineer, DP Bio
+  current_zh: DP Bio 工程师
   email: 779574160 AT qq.com
   thesis: Label-free digital LAMP based on impedance analysis
-  number_educ: 1
-  education1: B.S., Biomedical Engineering, Anhui Medical University (2018–2022)
-  education2:
-  education3:
-  education4:
+  thesis_zh: 基于阻抗分析的免标记数字 LAMP
+
 
 - name: Heng Zhai
+  name_zh: 翟恒
   photo: Zhaiheng.jpg
-  duration: 2022–2025, Master Student
+  duration: 2022-2025, Master Student
+  duration_zh: 2022-2025，硕士研究生
   current: Student Advisor at Shenzhen University
+  current_zh: 深圳大学辅导员
   email: zhaiheng1998 AT outlook.com
   thesis: Single-cell sequencing system based on droplet fusion
-  number_educ: 1
-  education1: B.S., Biomedical Engineering, Guangdong Medical University (2017–2021)
-  education2:
-  education3:
-  education4:
+  thesis_zh: 基于液滴融合的单细胞测序系统
+
 
 - name: Wanjun Yao
+  name_zh: 姚婉君
   photo: Wanjun.jpg
-  duration: 2022–2025, Master Student
+  duration: 2022-2025, Master Student
+  duration_zh: 2022-2025，硕士研究生
   current: Tutor
+  current_zh: 教师
   email: yaowanjun2000 AT 163.com
   thesis: Quantitative analysis of EB virus based on polydisperse hydrogel microspheres and flow cytometry
-  number_educ: 1
-  education1: B.S., Electrical and Information Engineering, Zhejiang Sci-Tech University (2018–2022)
-  education2:
-  education3:
-  education4:
+  thesis_zh: 基于多分散水凝胶微球和流式细胞术的 EB 病毒定量分析
 
 
 - name: Meichi Jin
+  name_zh: 金美池
   photo: Meichi.jpg
   duration: 2021-2024, Master's student
+  duration_zh: 2021-2024，硕士研究生
   current: PhD student at Cornell University
+  current_zh: 康奈尔大学博士研究生
   email: 2017222079 AT email.szu.edu.cn
   thesis: Multiplex digital nucleic acid detection based on precipitation intensity grading
-  number_educ: 1
-  education1: BS, Shenzhen University
-  education2:
-  education3:
-  education4:
+  thesis_zh: 基于沉淀强度分级的多重数字核酸检测
+
 
 - name: Jingyi Ding
+  name_zh: 丁婧怡
   photo: Jingyi.jpg
   duration: 2021-2024, Master's student
+  duration_zh: 2021-2024，硕士研究生
   current: Peking University Shenzhen Hospital
+  current_zh: 北京大学深圳医院
   email: dingjy99 AT 163.com
   thesis: Digital nucleic acid detection method and system based on polydisperse droplets
-  number_educ: 1
-  education1: BS, Shenzhen University
-  education2:
-  education3:
-  education4:
+  thesis_zh: 基于多分散液滴的数字核酸检测方法与系统
+
 
 - name: Zhantao Zhao
+  name_zh: 赵展陶
   photo: Zhantao.jpg
   duration: 2021-2024, Master's student
+  duration_zh: 2021-2024，硕士研究生
   current: System engineer, Huawei Technologies Co., Ltd.
+  current_zh: 华为技术有限公司系统工程师
   email: 840801648 AT qq.com
   thesis: Image-stimulated ultra-microinjection system for single-cell analysis
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
+  thesis_zh: 面向单细胞分析的图像激发超微注射系统
+
 
 - name: Donghao Li
+  name_zh: 李东豪
   photo: Donghao.jpg
   duration: 2020-2023, Master's Student
+  duration_zh: 2020-2023，硕士研究生
   current: Microfluidic engineer, Shenzhen Shanmu Biotech
+  current_zh: 深圳杉木生物微流控工程师
   email: 1459028206 AT qq.com
   thesis: Point-of-care blood coagulation assay based on digital microfluidics
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
+  thesis_zh: 基于数字微流控的即时凝血检测
+
 
 - name: Kai Wu
+  name_zh: 武凯
   photo: WuKai.jpg
   duration: 2020-2023, Master's Student
+  duration_zh: 2020-2023，硕士研究生
   current: Microfluidic engineer, Shenzhen YHLO Biotech
+  current_zh: 深圳亚辉龙生物微流控工程师
   email: wk13034005180 AT 163.com
   thesis: Multiplex digital nucleic acid detection based on droplet pairing and color coding
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
+  thesis_zh: 基于液滴配对和颜色编码的多重数字核酸检测
+
 
 - name: Run Xie
+  name_zh: 谢润
   photo: XieRun.jpg
   duration: 2020-2023, Master's Student
+  duration_zh: 2020-2023，硕士研究生
   current: System engineer, Shenzhen YHLO Biotech
+  current_zh: 深圳亚辉龙生物系统工程师
   email: run97999 AT 163.com
   thesis: High-throughput drug perturbation analysis based on droplet microfluidics and single-cell RNA sequencing
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
+  thesis_zh: 基于液滴微流控和单细胞 RNA 测序的高通量药物扰动分析
+
 
 - name: Linzhe Chen
+  name_zh: 陈琳喆
   photo: Linzhe.jpg
   duration: 2019-2022, Master's Student
+  duration_zh: 2019-2022，硕士研究生
   current: System engineer, Shenzhen Mai Ke Tian
+  current_zh: 深圳迈科田系统工程师
   email: 18206692357 AT 163.com
   thesis: Point-of-care testing based on droplet microfluidics
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
+  thesis_zh: 基于液滴微流控的即时检测
+
 
 - name: Lanzhu Huang
+  name_zh: 黄兰蛛
   photo: Lanzhu.jpg
   duration: 2018-2021, Master's Student
+  duration_zh: 2018-2021，硕士研究生
   current: Shenzhen YHLO Biotech
+  current_zh: 深圳亚辉龙生物
   email: huanglanzhu2018 AT email.szu.edu.cn
   thesis: Flexible Micropost Rings for High Throughput Testing of Clot Retraction Force
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
+  thesis_zh: 用于凝块回缩力高通量检测的柔性微柱环
+
 
 - name: Tao Wang
+  name_zh: 汪涛
   photo: WangTao.jpg
   duration: 2020-2021, Master's Student, co-advised by Prof. Qiaoliang Li
+  duration_zh: 2020-2021，硕士研究生，与李巧良教授共同指导
   current: System engineer, Shenzhen Mai Ke Tian
+  current_zh: 深圳迈科田系统工程师
   email: wtloveslife AT gmail.com
   thesis: Single Cell Isolation Using Droplet-based Microfluidics
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
+  thesis_zh: 基于液滴微流控的单细胞分离
+
 
 - name: Nicolò (Nick) Simone Villa
+  name_zh: Nicolò (Nick) Simone Villa
   photo: Nick.jpg
   duration: 2019-2020, PhD Candidate, co-advised by Prof. Tianfu Wang
+  duration_zh: 2019-2020，博士研究生，与王天富教授共同指导
   current: ""
+  current_zh: ""
   email: nicolos.villa AT gmail.com
-  thesis: 
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
+  thesis:
+  thesis_zh:
+

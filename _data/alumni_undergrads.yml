@@ -1,41 +1,59 @@
 - name: Rui Deng
+  name_zh: 邓蕊
   photo: Rui.jpg
   duration: 2023-2025, Undergrad Research Assistant & Final Year Project student
+  duration_zh: 2023-2025，本科生科研助理 / 毕业设计学生
   current: Master's student at Shenzhen Insitute of Advanced Technology
-  email: 
-  thesis: 
+  current_zh: 深圳先进技术研究院硕士研究生
+  email:
+  thesis:
 
 - name: Yihan Xie
+  name_zh: 谢以瀚
   photo: Yihan.jpg
   duration: 2022-2023, Final Year Project student
+  duration_zh: 2022-2023，毕业设计学生
   current: System Engineer in a med-tech company
-  email: 
-  thesis: 
+  current_zh: 医疗科技公司系统工程师
+  email:
+  thesis:
 
 - name: Yunzhu Wan
+  name_zh: 万芸竹
   photo: Yunzhu.jpg
   duration: 2021-2022, Final Year Project student
+  duration_zh: 2021-2022，毕业设计学生
   current: Master's student at Sun Yat-sen University
-  email: 
-  thesis: 
+  current_zh: 中山大学硕士研究生
+  email:
+  thesis:
 
 - name: Jieying Shan
+  name_zh: 单洁滢
   photo: Jieying.jpg
   duration: 2021-2022, Final Year Project student
+  duration_zh: 2021-2022，毕业设计学生
   current: Master's student at SZU
-  email: 
-  thesis: 
+  current_zh: 深圳大学硕士研究生
+  email:
+  thesis:
 
 - name: Jinying Cai
+  name_zh: 蔡金颖
   photo: Jinying.jpg
   duration: 2019-2021, Undergrad Research Assistant & Final Year Project student
+  duration_zh: 2019-2021，本科生科研助理 / 毕业设计学生
   current: Master's student at SZU
-  email: 
-  thesis: 
+  current_zh: 深圳大学硕士研究生
+  email:
+  thesis:
 
 - name: Meichi Jin
+  name_zh: 金美池
   photo: Meichi.jpg
   duration: 2020-2021, Final Year Project student
+  duration_zh: 2020-2021，毕业设计学生
   current: PhD student at Cornell University
-  email: 
-  thesis: 
+  current_zh: 康奈尔大学博士研究生
+  email:
+  thesis:

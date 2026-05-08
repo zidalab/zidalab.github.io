@@ -5,87 +5,100 @@ excerpt: "ZidaLab -- Research"
 sitemap: false
 permalink: /research/
 ---
+
 # Research
 
-At the ZidaLab, we develop advanced microfluidic tools to tackle major challenges in biomedical research. Our work blends engineering, biotechnology, and computational science to create sensitive, scalable, and cost-effective assays — all with the aim of enabling **precision medicine**.
+<div class="research-hero" markdown="1">
 
-We specialize in:
+ZidaLab develops **microfluidic and computational technologies** for precision biomedical measurement. We focus on assays that are sensitive, scalable, and practical enough to move beyond specialized laboratories.
 
-- **Single-molecule analysis of nucleic acids**  
-- **Single-cell analysis**  
-- **Blood coagulation testing**  
-- **Microfluidic platform development for biomedical applications**
+Our projects often combine device design, wet-lab assay development, microscopy, image analysis, and machine learning. The goal is to create tools that help researchers and clinicians measure nucleic acids, single cells, droplets, and blood mechanics with higher throughput and lower instrumentation barriers.
 
-Our goal is to design next-generation diagnostic technologies that function with minimal instrumentation — ideal for point-of-care and resource-limited settings.
+</div>
 
----
+<div class="research-pill-row" markdown="0">
+  <span>Microfluidics</span>
+  <span>Digital diagnostics</span>
+  <span>Single-cell analysis</span>
+  <span>Computational imaging</span>
+  <span>Point-of-care testing</span>
+</div>
 
-## Research Topics
-<div class="row">
+## Research Directions
+
+<div class="row research-card-row">
 <div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>Single-Molecule Analysis of Nucleic Acids</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dir2_dPCR-01.png" class="img-responsive" width="100%" style="float: left" />
-  <p>Nucleic acid detection plays a central role in the identification of pathogen infection, diagnosis of genetic diseases, and genetic analysis. The commonly used method of real-time PCR requires references for quantification. In contrast, the emerging technology of digital PCR offers a means for absolute quantification. However, existing digital PCR technical platforms require sophisticated instruments for compartmentalization and signal reading, limiting their widespread applications. In addition, only a handful of nucleic acid targets can be simultaneously tested. In our lab, we aim to develop low cost, portable, multiplex methods for digital nucleic acid tests using microfluidic tools and machine learning algorithms.</p>
-  
+ <div class="well research-card">
+  <pubtit>Single-molecule nucleic acid analysis</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dir2_dPCR-01.png" class="img-responsive" alt="Digital nucleic acid analysis" loading="lazy" decoding="async" />
+  <p>Nucleic acid testing is central to infectious disease detection, genetic diagnostics, and molecular biology. We develop droplet-based digital assays that aim to reduce instrument complexity while improving sensitivity, quantification, and multiplexing.</p>
+  <p>Current work explores label-free readouts, non-uniform droplet statistics, image-based classification, and portable workflows for digital nucleic acid analysis.</p>
  </div>
 </div>
 
 <div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>Single-Cell Analysis</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dir3_scRNAseq.png" class="img-responsive" width="100%" style="float: left" />
-  <p>Every cell is special. Bulk analysis takes ensemble average of the biological samples, while single cell analysis offers the opportunity to tease out cell heterogeneity. A typical pipeline of single cell analysis including cell isolation, library construction, sequencing, and stats, and droplet microfluidics offers a method to isolate and process cells with ultrahigh throughput. We are currently working on improving the performance of droplet microfluidics in single cell analysis, in terms of cell encapsulation, droplet sorting, and barcoding. We work closely with our collaborators in sequencing industry.</p>
-
+ <div class="well research-card">
+  <pubtit>Single-cell analysis</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dir3_scRNAseq.png" class="img-responsive" alt="Single-cell microfluidic analysis" loading="lazy" decoding="async" />
+  <p>Single-cell measurements reveal biological heterogeneity that is hidden in bulk samples. We use droplet microfluidics to isolate, manipulate, barcode, and analyze cells at high throughput.</p>
+  <p>Our interests include cell encapsulation, droplet sorting, single-cell sequencing workflows, and combinatorial perturbation screens.</p>
  </div>
 </div>
-
 </div>
 
-
-<div class="row">
+<div class="row research-card-row">
 <div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>Blood coagulation assay</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dir1_coag-01.png" class="img-responsive" width="100%" style="float: left" />
-  <p>Monitoring of coagulation function has applications in many clinical settings, but routine coagulation assays are sample-consuming and slow in turnaround. In our lab, we leverage the advantage of microfluidics in developing miniaturized assays and develop novel coagulation assays that are applicable in point-of-care settings. Specifically, we develop microfluidic sensors that assess the mechanical properties, namely clot retraction force and viscosity, of the blood during clotting.</p>
-
+ <div class="well research-card">
+  <pubtit>Blood coagulation and mechanics</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/dir1_coag-01.png" class="img-responsive" alt="Microfluidic coagulation assay" loading="lazy" decoding="async" />
+  <p>Coagulation testing is important in many clinical settings, but conventional assays can be slow, sample-consuming, and instrument-dependent. We build miniaturized microfluidic assays for measuring blood clotting and mechanical properties.</p>
+  <p>These platforms are designed for quantitative readouts such as clot retraction force, viscosity, and related functional signatures.</p>
  </div>
 </div>
-
 
 <div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>Microfluidic tools</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/microfluidic_tools.png" class="img-responsive" width="50%" style="float: left" />
-  <p>In our lab, we are also interested in developing new microfluidic tools for various biomedical applications. For example, we use real-time image analysis to identify droplets with different encapsulations and perform downstream droplet manipulations. We develop new technologies to pattern antibodies with high resolutions and multiplexity. These innovations enable precise control and analysis of microscale biological processes, supporting a wide range of diagnostic and research applications.</p>
+ <div class="well research-card">
+  <pubtit>Microfluidic tools and intelligent assays</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/microfluidic_tools.png" class="img-responsive" alt="Microfluidic tools" loading="lazy" decoding="async" />
+  <p>Many biomedical assays need better ways to control, observe, and select microscale samples. We develop microfluidic tools for droplet manipulation, antibody patterning, image-activated sorting, and assay automation.</p>
+  <p>By combining device engineering with real-time imaging and computation, we aim to make complex measurements easier to run and easier to interpret.</p>
  </div>
 </div>
-
 </div>
----
 
-## 🖼️ Research pictures
+## How We Work
 
-![Lab overview](/images/respic/research_pictures.png){:class="img-responsive" width="70%"}
+<div class="research-workflow" markdown="0">
+  <div>
+    <strong>Design</strong>
+    <p>Microfluidic chips, assay formats, optical readouts, and experimental workflows.</p>
+  </div>
+  <div>
+    <strong>Measure</strong>
+    <p>Droplets, cells, nucleic acids, blood samples, images, and quantitative signals.</p>
+  </div>
+  <div>
+    <strong>Analyze</strong>
+    <p>Image processing, statistical modeling, machine learning, and assay validation.</p>
+  </div>
+  <div>
+    <strong>Translate</strong>
+    <p>Portable, scalable, and cost-aware tools for biomedical research and diagnostics.</p>
+  </div>
+</div>
 
-Our research is driven by hands-on experimentation and innovation in the lab. The images above showcase some of our recent work, including microfluidic device fabrication, droplet assays, and collaborative projects. These snapshots provide a glimpse into our daily research activities and the technologies we are developing.
+## Research Pictures
 
-[**See more pics →**]({{ site.url }}{{ site.baseurl }}/pictures)
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/research_pictures.png" class="img-responsive research-wide-image" alt="Research pictures from ZidaLab" loading="lazy" decoding="async" />
 
----
+Our work is hands-on and interdisciplinary: device fabrication, droplet experiments, biological assays, microscopy, and data analysis often happen within the same project.
 
-## 🧪 Lab Facilities
+[**See More Lab Photos**]({{ site.url }}{{ site.baseurl }}/pictures)
 
-![Lab overview](/images/inst/lab_view.jpg){:class="img-responsive" width="70%"}
+## Lab Facilities
 
-We maintain a full suite of microfabrication, imaging, and droplet-handling tools for prototyping and testing our assays.
+<img src="{{ site.url }}{{ site.baseurl }}/images/inst/lab_view.jpg" class="img-responsive research-wide-image" alt="ZidaLab facilities" loading="lazy" decoding="async" />
 
-- Microfabrication and microfluidics  
-- Microscopy  
-- Molecular and cellular biology  
-- Computation
+The lab maintains facilities for microfabrication, microscopy, molecular biology, cell experiments, droplet handling, and computation. This enables students to move from concept to prototype to quantitative testing within one research environment.
 
-[**See full facilities →**]({{ site.url }}{{ site.baseurl }}/instrumente)
-
----
+[**See Full Facilities**]({{ site.url }}{{ site.baseurl }}/instrumente)

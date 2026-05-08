@@ -38,7 +38,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4><a class="team-member-link" href="{{ site.url }}{{ site.baseurl }}/team/{{ member.name | slugify }}/">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i> <br>
   email: {{ member.email }}
   <ul style="overflow: hidden">
@@ -196,5 +196,4 @@ Currently: {{ member.current}}
 
 
 </div>
-
 
