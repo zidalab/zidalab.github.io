@@ -29,18 +29,18 @@ Associate Professor, Department of Biomedical Engineering (2024-present)<br>
 Assistant Professor, Department of Biomedical Engineering (2018-2023)<br>
 <i>University of Hong Kong</i><br>
 Research Assistant, Department of Mechanical Engineeering (2012-2013)<br>
-Advisor: Anderson Ho Cheung Shum
+Advisor: Prof. Anderson Ho Cheung Shum
 </div>
 
 <div class="profile-section-card">
 <h5><u>Education</u></h5>
 <i>University of Michigan, Ann Arbor</i><br>
 Ph.D., Department of Mechanical Engineering (2013-2018)<br>
-Advisor: Jianping Fu
+Advisor: Prof. Jianping Fu
 
 <i>University of Science and Technology of China</i><br>
 B.E., Department of Thermal Science and Energy Engineering (2008-2012)<br>
-Advisors: Liqun He
+Advisors: Prof. Liqun He
 </div>
 
 <div class="profile-section-card profile-section-card-wide">

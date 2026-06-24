@@ -30,18 +30,18 @@ email: zidali AT szu.edu.cn<br>
 生物医学工程系，助理教授（2018-2023）<br>
 <i>香港大学</i><br>
 机械工程系，研究助理（2012-2013）<br>
-导师：Anderson Ho Cheung Shum
+导师：Prof. Anderson Ho Cheung Shum
 </div>
 
 <div class="profile-section-card">
 <h5><u>教育经历</u></h5>
 <i>美国密歇根大学安娜堡分校</i><br>
 机械工程系，博士（2013-2018）<br>
-导师：Jianping Fu
+导师：Prof. Jianping Fu
 
 <i>中国科学技术大学</i><br>
 热科学和能源工程系，学士（2008-2012）<br>
-导师：何立群
+导师：何立群教授
 </div>
 
 <div class="profile-section-card profile-section-card-wide">
@@ -52,6 +52,26 @@ Baxter Young Investigator Award First-Tier, Baxter Healthcare Inc.（2016）<br>
 密歇根大学机械工程系奖学金（2013-2014）<br>
 安徽省优秀毕业生（2012）<br>
 国家奖学金（2011）
+</div>
+
+<div class="profile-section-card profile-section-card-wide">
+<h5><u>代表性科研项目</u></h5>
+国家自然科学基金-青年项目C (主持, 30万, 2024-2026)<br>
+广东省自然科学基金-面上项目 (主持, 10万, 2026-2028)<br>
+广东省自然科学基金-面上项目 (主持, 10万, 2019-2021)<br>
+深圳市医学研究专项-生物技术研究项目 (主持, 100万, 2025-2026)<br>
+深圳市自然科学基金-面上项目 (主持, 30万, 2026-2028)
+</div>
+
+<div class="profile-section-card profile-section-card-wide">
+<h5><u>专家委员会成员 (Technical Program Committee)</u></h5>
+[1]国际化学与生命科学微型化系统会议（MicroTAS，2026-2029）<br>
+[2]第 18 届 IEEE 国际纳米 / 分子医学与工程会议（IEEE-NANOMED，2025-2026）
+</div>
+
+<div class="profile-section-card profile-section-card-wide">
+<h5><u>期刊审稿</u></h5>
+PNAS, Nature Communications, Advanced Science, Cell Reports Medicine, Analytical Chemistry, ACS Sensors, Lab on a Chip, npj Biosensing, IEEE Transactions on Biomedical Engineering, Sensors and Actuators B: Chemical, Analytica Chimica Acta, Advanced Functional Materials, Microsystems & Nanoengineering, Small Methods, Talanta, Biomicrofluidics, Analyst, Physics of Fluids, Sensors and Diagnostics
 </div>
 </div>
 </div>

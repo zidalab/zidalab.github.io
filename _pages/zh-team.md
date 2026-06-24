@@ -38,7 +38,7 @@ lang: zh
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4><a class="team-member-link" href="{{ site.url }}{{ site.baseurl }}/zh/team/{{ member.name | slugify }}/">{{ member.name_zh | default: member.name }}</a></h4>
+  <h4>{{ member.name_zh | default: member.name }}</h4>
   <i>研究生</i> <br>
   email: {{ member.email }}
   <ul style="overflow: hidden">
