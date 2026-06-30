@@ -156,11 +156,6 @@ lang: zh
   <i>{{ member.duration_zh | default: member.duration }} <br></i>
   论文题目：{{ member.thesis_zh | default: member.thesis }}<br>
   目前去向：{{ member.current_zh | default: member.current }}
-  {% if member.education1_zh or member.education1 %}
-  <ul style="overflow: hidden">
-    <li>{{ member.education1_zh | default: member.education1 }}</li>
-  </ul>
-  {% endif %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

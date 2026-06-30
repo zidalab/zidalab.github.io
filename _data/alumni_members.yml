@@ -1,3 +1,33 @@
+- name: Jiazhao Chen
+  name_zh: 陈佳兆
+  photo: Jiazhao.jpg
+  duration: 2023-2026, Master Student
+  duration_zh: 2023-2026，硕士研究生
+  current: The Second People's Hospital of Shenzhen
+  current_zh: 深圳市第二人民医院设备科
+  info: Graduate Student
+  email: cjz524611714 AT gmail.com
+  number_educ: 1
+  education1: B.S., Biomedical Engineering, Shenzhen University (2019-2023)
+  education1_zh: 深圳大学生物医学工程专业，工学学士（2019-2023）
+  thesis: Development of a droplet microfluidic platform for single-cell secretion and transcriptome sequencing
+  thesis_zh: 基于液滴微流控的单细胞分泌蛋白捕获与转录组联合测序方法研究  
+
+- name: Wenkai Fan
+  name_zh: 范文楷
+  photo: Wenkai.jpg
+  duration: 2023-2026, Master Student
+  duration_zh: 2023-2026，硕士研究生
+  current: The People's Hospital of Yantian District
+  current_zh: 盐田区人民医院设备科
+  info: Graduate Student
+  email: 936418429 AT qq.com
+  number_educ: 1
+  education1: B.S., Biomedical Engineering, Shenzhen University (2019-2023)
+  education1_zh: 深圳大学生物医学工程专业，工学学士（2019-2023）
+  thesis: Multi-bead digital immunoassay using in-flow droplet analysis
+  thesis_zh: 基于流式液滴分析的多磁珠数字免疫检测方法
+
 - name: Qi Fang
   name_zh: 方琪
   photo: Fangqi.jpg

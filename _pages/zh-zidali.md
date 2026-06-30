@@ -65,8 +65,8 @@ Baxter Young Investigator Award First-Tier, Baxter Healthcare Inc.（2016）<br>
 
 <div class="profile-section-card profile-section-card-wide">
 <h5><u>专家委员会成员 (Technical Program Committee)</u></h5>
-[1]国际化学与生命科学微型化系统会议（MicroTAS，2026-2029）<br>
-[2]第 18 届 IEEE 国际纳米 / 分子医学与工程会议（IEEE-NANOMED，2025-2026）
+国际化学与生命科学微型化系统会议（MicroTAS，2026-2029）<br>
+第 18 届 IEEE 国际纳米 / 分子医学与工程会议（IEEE-NANOMED，2025-2026）
 </div>
 
 <div class="profile-section-card profile-section-card-wide">
