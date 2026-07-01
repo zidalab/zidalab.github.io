@@ -15,7 +15,7 @@ lang: zh
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Zida.jpg" class="img-responsive" width="25%" style="float: left" />
   <h4><a class="team-member-link" href="{{ site.url }}{{ site.baseurl }}/zh/zidali/">李自达</a></h4>
-  <i>副教授</i> <br>
+  <b>副教授</b> <br>
   email: zidali AT szu.edu.cn<br>
   <ul style="overflow: hidden">
   <li>美国密歇根大学博士（2013-2018）</li>
@@ -39,7 +39,7 @@ lang: zh
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name_zh | default: member.name }}</h4>
-  <i>研究生</i> <br>
+  <b>研究生</b> <br>
   email: {{ member.email }}
   <ul style="overflow: hidden">
 
@@ -103,7 +103,7 @@ lang: zh
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i> <br>
+  <b>{{ member.info }}</b> <br>
   email: <{{ member.email }}>
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
@@ -153,7 +153,7 @@ lang: zh
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name_zh | default: member.name }}</h4>
-  <i>{{ member.duration_zh | default: member.duration }} <br></i>
+  <b>{{ member.duration_zh | default: member.duration }} <br></b>
   论文题目：{{ member.thesis_zh | default: member.thesis }}<br>
   目前去向：{{ member.current_zh | default: member.current }}
 </div>
@@ -175,6 +175,6 @@ lang: zh
 
 {% for member in site.data.alumni_undergrads %}
 <h4>{{ member.name_zh | default: member.name }}</h4>
-<i>{{ member.duration_zh | default: member.duration }}</i><br>
+<b>{{ member.duration_zh | default: member.duration }}</b><br>
 目前去向：{{ member.current_zh | default: member.current}}
 {% endfor %}

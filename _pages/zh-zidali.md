@@ -14,9 +14,8 @@ lang: zh
 </div>
 <div class="profile-summary">
 <h4><a href="{{ site.url }}{{ site.baseurl }}/zh/zidali/">李自达</a></h4>
-<i>副教授</i> <br>
-生物医学工程<br>
-深圳大学<br>
+<b>副教授</b> <br>
+深圳大学生物医学工程学院<br>
 email: zidali AT szu.edu.cn<br>
 更多信息请见 <a href="https://scholar.google.com/citations?user=9s8iCB0AAAAJ&amp;hl=en" target="_blank">Google Scholar</a>、<a href="{{ site.url }}{{ site.baseurl }}/downloads/CV-Chinese.pdf" target="_blank">简历</a> 或 <a href="{{ site.url }}{{ site.baseurl }}/downloads/CV-English.pdf" target="_blank">CV</a>
 </div>
@@ -25,21 +24,22 @@ email: zidali AT szu.edu.cn<br>
 <div class="profile-section-grid">
 <div class="profile-section-card">
 <h5><u>工作经历</u></h5>
-<i>深圳大学</i><br>
+<b>深圳大学</b><br>
 生物医学工程系，副教授（2024-至今）<br>
 生物医学工程系，助理教授（2018-2023）<br>
-<i>香港大学</i><br>
+
+<b>香港大学</b><br>
 机械工程系，研究助理（2012-2013）<br>
 导师：Prof. Anderson Ho Cheung Shum
 </div>
 
 <div class="profile-section-card">
 <h5><u>教育经历</u></h5>
-<i>美国密歇根大学安娜堡分校</i><br>
+<b>美国密歇根大学安娜堡分校</b><br>
 机械工程系，博士（2013-2018）<br>
-导师：Prof. Jianping Fu
+导师：Prof. Jianping Fu <br>
 
-<i>中国科学技术大学</i><br>
+<b>中国科学技术大学</b><br>
 热科学和能源工程系，学士（2008-2012）<br>
 导师：何立群教授
 </div>
@@ -49,9 +49,8 @@ email: zidali AT szu.edu.cn<br>
 中国化学会分析化学年会最佳口头报告奖（2023）<br>
 深圳市科学技术协会优秀论文奖（2023）<br>
 Baxter Young Investigator Award First-Tier, Baxter Healthcare Inc.（2016）<br>
-密歇根大学机械工程系奖学金（2013-2014）<br>
-安徽省优秀毕业生（2012）<br>
-国家奖学金（2011）
+安徽省优秀本科毕业生（2012）<br>
+本科生国家奖学金（2011）
 </div>
 
 <div class="profile-section-card profile-section-card-wide">
@@ -60,7 +59,8 @@ Baxter Young Investigator Award First-Tier, Baxter Healthcare Inc.（2016）<br>
 广东省自然科学基金-面上项目 (主持, 10万, 2026-2028)<br>
 广东省自然科学基金-面上项目 (主持, 10万, 2019-2021)<br>
 深圳市医学研究专项-生物技术研究项目 (主持, 100万, 2025-2026)<br>
-深圳市自然科学基金-面上项目 (主持, 30万, 2026-2028)
+深圳市自然科学基金-面上项目 (主持, 30万, 2026-2028)<br>
+高新企业技术开发横向项目（主持，30万，2022-2023）
 </div>
 
 <div class="profile-section-card profile-section-card-wide">
@@ -71,7 +71,7 @@ Baxter Young Investigator Award First-Tier, Baxter Healthcare Inc.（2016）<br>
 
 <div class="profile-section-card profile-section-card-wide">
 <h5><u>期刊审稿</u></h5>
-PNAS, Nature Communications, Advanced Science, Cell Reports Medicine, Analytical Chemistry, ACS Sensors, Lab on a Chip, npj Biosensing, IEEE Transactions on Biomedical Engineering, Sensors and Actuators B: Chemical, Analytica Chimica Acta, Advanced Functional Materials, Microsystems & Nanoengineering, Small Methods, Talanta, Biomicrofluidics, Analyst, Physics of Fluids, Sensors and Diagnostics
+PNAS, Nature Communications, Advanced Science, Cell Reports Medicine, Device, Analytical Chemistry, ACS Sensors, Lab on a Chip, npj Biosensing, IEEE Transactions on Biomedical Engineering, Sensors and Actuators B: Chemical, Analytica Chimica Acta, Advanced Functional Materials, Microsystems & Nanoengineering, Small Methods, Talanta, Biomicrofluidics, Analyst, Physics of Fluids, Sensors and Diagnostics
 </div>
 </div>
 </div>
