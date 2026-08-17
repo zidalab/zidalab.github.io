@@ -1,10 +1,20 @@
+# - title: "SAGE: A multimodal AI framework for quality assessment, troubleshooting, and optimization of digital molecular diagnostics"
+#   image:
+#   authors: Yuanyuan Wei,# Yucheng Wu,# Junnan Zhong,# Boyuan Jia,# Sherwin Ho, Jingjie Ning, Yao Mu, Ho-Pui Ho,<sup>*</sup> <b>Zida Li</b>,<sup>*</sup> Wu Yuan,<sup>*</sup> Mingkun Xu<sup>*</sup>
+#   description:
+#   link:
+#     url: http://doi.org 
+#     display: under review (2026)
+#   highlight: 0
+#   news2:
+
 - title: "Label-free Digital Nucleic Acid Amplification Tests: Signal Physics and AI-Enabled Decoding"
   image:
   authors: Junnan Zhong and <b>Zida Li</b><sup>*</sup>
   description:
   link:
     url: http://doi.org 
-    display: under review (2026)
+    display: Lab on a Chip, in press (2026)
   highlight: 0
   news2:
 
