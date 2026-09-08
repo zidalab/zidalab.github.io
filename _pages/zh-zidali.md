@@ -55,6 +55,7 @@ Baxter Young Investigator Award First-Tier, Baxter Healthcare Inc.（2016）<br>
 
 <div class="profile-section-card profile-section-card-wide">
 <h5><u>代表性科研项目</u></h5>
+国家自然科学基金-面上项目 (主持, 50万, 2027-2030)<br>
 国家自然科学基金-青年项目C (主持, 30万, 2024-2026)<br>
 广东省自然科学基金-面上项目 (主持, 10万, 2026-2028)<br>
 广东省自然科学基金-面上项目 (主持, 10万, 2019-2021)<br>

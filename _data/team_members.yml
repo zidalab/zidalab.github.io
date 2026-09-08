@@ -1,5 +1,6 @@
 # Core members. Personal profile pages read intro_en / intro_zh from this file.
 
+
 - name: Yuchong Zheng
   name_zh: 郑雨憧
   photo: Yuchong.png
@@ -8,8 +9,6 @@
   number_educ: 1
   education1: B.S., Biotechnology, Shenzhen University (2019-2023)
   education1_zh: 深圳大学生物技术专业，理学学士（2019-2023）
-  intro_en: Hi, I am Yuchong Zheng, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
-  intro_zh: 大家好，我是郑雨憧，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
 
 - name: Jiaying Zhu
   name_zh: 朱嘉盈
@@ -19,8 +18,6 @@
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
   education1_zh: 深圳大学生物医学工程专业，工学学士（2021-2025）
-  intro_en: Hi, I am Jiaying Zhu, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
-  intro_zh: 大家好，我是朱嘉盈，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
 
 - name: Xiaona Huang
   name_zh: 黄晓娜
@@ -30,8 +27,6 @@
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
   education1_zh: 深圳大学生物医学工程专业，工学学士（2021-2025）
-  intro_en: Hi, I am Xiaona Huang, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
-  intro_zh: 大家好，我是黄晓娜，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
 
 - name: Zhenxu Huang
   name_zh: 黄振栩
@@ -41,8 +36,6 @@
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
   education1_zh: 深圳大学生物医学工程专业，工学学士（2021-2025）
-  intro_en: Hi, I am Zhenxu Huang, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
-  intro_zh: 大家好，我是黄振栩，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
 
 - name: Yisi Zheng
   name_zh: 郑翊思
@@ -52,8 +45,6 @@
   number_educ: 1
   education1: B.S., Pharmaceutical Engineering, South China Agricultural University (2021-2025)
   education1_zh: 华南农业大学制药工程专业，工学学士（2021-2025）
-  intro_en: Hi, I am Yisi Zheng, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
-  intro_zh: 大家好，我是郑翊思，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
 
 - name: Junnan Zhong
   name_zh: 钟俊男
@@ -63,8 +54,6 @@
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
   education1_zh: 深圳大学生物医学工程专业，工学学士（2021-2025）
-  intro_en: Hi, I am Junnan Zhong, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
-  intro_zh: 大家好，我是钟俊男，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
 
 - name: Huaer Chen
   name_zh: 陈华儿
@@ -74,5 +63,22 @@
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
   education1_zh: 深圳大学生物医学工程专业，工学学士（2021-2025）
-  intro_en: Hi, I am Huaer Chen, a graduate student in ZidaLab. I am interested in learning through experiments, building useful research skills, and working with the team on microfluidics and biomedical engineering projects.
-  intro_zh: 大家好，我是陈华儿，ZidaLab 研究生。我对微流控、生物医学检测和实验方法开发感兴趣，希望在课题组中通过具体项目训练实验、分析和工程实现能力。
+
+- name: Lejia Hao
+  name_zh: 郝乐佳
+  photo: Lejia.png
+  info: Graduate Student
+  email: 2393631069 AT qq.com
+  number_educ: 1
+  education1: B.S., Automation, Shenzhen University (2022-2026)
+  education1_zh: 深圳大学自动化专业，工学学士（2022-2026）
+  
+- name: Sijue Li
+  name_zh: 李偲珏
+  photo: Sijue.png
+  info: Graduate Student
+  email: 3181420365 AT qq.com
+  number_educ: 1
+  education1: B.S., Biomedical Engineering, Shenzhen University (2022-2026)
+  education1_zh: 深圳大学生物医学工程专业，工学学士（2022-2026）
+  
