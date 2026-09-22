@@ -5,6 +5,7 @@
   name_zh: 郑雨憧
   photo: Yuchong.png
   info: Graduate Student
+  info_zh: 研究生
   email: 634255151 AT qq.com
   number_educ: 1
   education1: B.S., Biotechnology, Shenzhen University (2019-2023)
@@ -14,6 +15,7 @@
   name_zh: 朱嘉盈
   photo: Jiaying.jpg
   info: Graduate Student
+  info_zh: 研究生
   email: 2021220050 AT email.szu.edu.cn
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
@@ -23,6 +25,7 @@
   name_zh: 黄晓娜
   photo: Xiaona.jpg
   info: Graduate Student
+  info_zh: 研究生
   email: 2021220057 AT email.szu.edu.cn
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
@@ -32,6 +35,7 @@
   name_zh: 黄振栩
   photo: Zhenxu.jpg
   info: Graduate Student
+  info_zh: 研究生
   email: HuaKAI0714 AT gmail.com
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
@@ -41,6 +45,7 @@
   name_zh: 郑翊思
   photo: Yisi.jpg
   info: Graduate Student
+  info_zh: 研究生
   email: 2502036310 AT qq.com
   number_educ: 1
   education1: B.S., Pharmaceutical Engineering, South China Agricultural University (2021-2025)
@@ -50,6 +55,7 @@
   name_zh: 钟俊男
   photo: Junnan.jpg
   info: Graduate Student
+  info_zh: 研究生
   email: 2531546623 AT qq.com
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
@@ -59,6 +65,7 @@
   name_zh: 陈华儿
   photo: Huaer.jpg
   info: Graduate Student
+  info_zh: 研究生
   email: 1160781978 AT qq.com
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2021-2025)
@@ -68,6 +75,7 @@
   name_zh: 郝乐佳
   photo: Lejia.png
   info: Graduate Student
+  info_zh: 研究生
   email: 2393631069 AT qq.com
   number_educ: 1
   education1: B.S., Automation, Shenzhen University (2022-2026)
@@ -77,6 +85,7 @@
   name_zh: 李偲珏
   photo: Sijue.png
   info: Graduate Student
+  info_zh: 研究生
   email: 3181420365 AT qq.com
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2022-2026)
@@ -85,7 +94,8 @@
 - name: Junshang Fu
   name_zh: 付君上
   photo: Junshang.jpg
-  info: Graduate Student
+  info: Graduate Student Pre-candidate
+  info_zh: 预录取研究生
   email: 3138211315 AT qq.com
   number_educ: 1
   education1: B.S., Biological Sciences (Normal), Shenzhen University (2023-2027)
@@ -94,7 +104,8 @@
 - name: Ying Yang
   name_zh: 杨盈
   photo: Ying.jpg
-  info: Graduate Student
+  info: Graduate Student Pre-candidate
+  info_zh: 预录取研究生
   email: 1654585001 AT qq.com
   number_educ: 1
   education1: B.S., Biomedical Engineering, Shenzhen University (2023-2027)
