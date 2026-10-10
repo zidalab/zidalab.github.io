@@ -8,12 +8,32 @@
   highlight: 0
   news2:
 
-- title: "A Language Model-Informed Minimalistic Design of Functional Coacervate Vesicles"
+- title: "Multiplex deep-LAMP"
   image:
-  authors: Wei Guo,# Yuchao Wang,# Subhadip Biswas,# <b>Junnan Zhong</b>, Gurudas Chakraborty, Melina Schadt, Fabian Wiertz, Guobo Chen, Sihan Liu, Yang Song, <b>Zida Li</b>, Yuan Lin,<sup>*</sup> Andreas Herrmann,<sup>*</sup> Davit A. Potoyan,<sup>*</sup> and Ho Cheung Shum<sup>*</sup>
+  authors: Jiaying Zhu, Zhenxu Huang, Zixin Zheng, Weidong Zheng, and <b>Zida Li</b><sup>*</sup>
   description:
   link:
-    url:
+    url: https://doi.org/
+    display: in prep (2027)
+  highlight: 0
+  news2:
+
+- title: "Droplet Digital Immunoassay Using Multi-Bead Encapsulation and Flow-Through Fluorescence Waveform Analysis"
+  image:
+  authors: Yisi Zheng, Xiaona Huang, Wenkai Fan, Mengxing Mou, Yujuan Chai, and <b>Zida Li</b><sup>*</sup>
+  description:
+  link:
+    url: https://doi.org/
+    display: in prep (2027)
+  highlight: 0
+  news2:
+
+- title: "A Language Model-Informed Minimalistic Design of Functional Coacervate Vesicles"
+  image:
+  authors: Wei Guo,# Yuchao Wang,# Subhadip Biswas,# Junnan Zhong, Gurudas Chakraborty, Melina Schadt, Fabian Wiertz, Guobo Chen, Sihan Liu, Yang Song, <b>Zida Li</b>, Yuan Lin,<sup>*</sup> Andreas Herrmann,<sup>*</sup> Davit A. Potoyan,<sup>*</sup> and Ho Cheung Shum<sup>*</sup>
+  description:
+  link:
+    url: https://doi.org/
     display: Nature Communications, in press (2026)
   highlight: 0
   news2:
