@@ -8,29 +8,29 @@
   highlight: 0
   news2:
 
-- title: "Multiplex deep-LAMP"
+- title: "Spatially Multiplexed Label-Free Digital LAMP for Parallel Detection of Transplant-Associated Viruses"
   image:
-  authors: Jiaying Zhu, Zhenxu Huang, Zixin Zheng, Jitian Li, and <b>Zida Li</b><sup>*</sup>
+  authors: Jiaying Zhu,<sup>#</sup> Zhenxu Huang,<sup>#</sup> Zixin Zheng,<sup>#</sup> Jitian Li, and <b>Zida Li</b><sup>*</sup>
   description:
   link:
     url: https://doi.org/
-    display: in prep (2027)
+    display: Under review (2027)
   highlight: 0
   news2:
 
 - title: "Droplet Digital Immunoassay Using Multi-Bead Encapsulation and Flow-Through Fluorescence Waveform Analysis"
   image:
-  authors: Yisi Zheng, Xiaona Huang, Wenkai Fan, Mengxing Mou, Yujuan Chai,<sup>*</sup> and <b>Zida Li</b><sup>*</sup>
+  authors: Yisi Zheng,<sup>#</sup> Xiaona Huang,<sup>#</sup> Wenkai Fan, Mengxing Mou, Yujuan Chai,<sup>*</sup> and <b>Zida Li</b><sup>*</sup>
   description:
   link:
     url: https://doi.org/
-    display: in prep (2027)
+    display: Under review (2027)
   highlight: 0
   news2:
 
 - title: "A Language Model-Informed Minimalistic Design of Functional Coacervate Vesicles"
   image:
-  authors: Wei Guo,# Yuchao Wang,# Subhadip Biswas,# Junnan Zhong, Gurudas Chakraborty, Melina Schadt, Fabian Wiertz, Guobo Chen, Sihan Liu, Yang Song, <b>Zida Li</b>, Yuan Lin,<sup>*</sup> Andreas Herrmann,<sup>*</sup> Davit A. Potoyan,<sup>*</sup> and Ho Cheung Shum<sup>*</sup>
+  authors: Wei Guo,<sup>#</sup> Yuchao Wang,<sup>#</sup> Subhadip Biswas,<sup>#</sup> Junnan Zhong, Gurudas Chakraborty, Melina Schadt, Fabian Wiertz, Guobo Chen, Sihan Liu, Yang Song, <b>Zida Li</b>, Yuan Lin,<sup>*</sup> Andreas Herrmann,<sup>*</sup> Davit A. Potoyan,<sup>*</sup> and Ho Cheung Shum<sup>*</sup>
   description:
   link:
     url: https://doi.org/
@@ -60,7 +60,7 @@
 
 - title: "StratoLAMP-2: A Microfluidics-Free, Deep-Learning Platform for Multiplex Digital Molecular Diagnostics"
   image:
-  authors: Jiazhao Chen,# Jingyi Ding,# Rui Deng, Yi Wang,<sup>*</sup> and <b>Zida Li</b><sup>*</sup>
+  authors: Jiazhao Chen,<sup>#</sup> Jingyi Ding,<sup>#</sup> Rui Deng, Yi Wang,<sup>*</sup> and <b>Zida Li</b><sup>*</sup>
   description:
   link:
     url: https://doi.org/10.1021/acs.analchem.5c04408
@@ -101,7 +101,7 @@
 
 - title: "Droplet digital PCR-based single aptamer selection"
   image:
-  authors: Zerui Wu,# Wanjun Yao,# Jinyu Chen, Yonghao Chen, <b>Zida Li</b>, Weiping Ding,<sup>*</sup> Liqun He,<sup>*</sup> and Peng Hu<sup>*</sup>
+  authors: Zerui Wu,<sup>#</sup> Wanjun Yao,<sup>#</sup> Jinyu Chen, Yonghao Chen, <b>Zida Li</b>, Weiping Ding,<sup>*</sup> Liqun He,<sup>*</sup> and Peng Hu<sup>*</sup>
   description:
   link:
     url: https://doi.org/10.1016/j.talanta.2025.127924
@@ -122,7 +122,7 @@
 - title: "StratoLAMP: Label-free, multiplex digital loop-mediated isothermal amplification based on visual stratification of precipitate"
   image: 2024_PNAS_Jin.png
   description: We developed StratoLAMP, a new method for detecting multiple genetic targets without the need for complex or costly fluorescent labels. Instead, we use a natural byproduct from a common DNA amplification reaction—tiny particles that form during the process—as a visual signal. By carefully designing the system, we can tell which genes are present just by looking at the amount of these particles in each droplet. We then use AI-powered image analysis to interpret the results with high accuracy. StratoLAMP makes genetic testing simpler, more affordable, and better suited for use outside of high-tech labs—an exciting step toward more accessible diagnostics.
-  authors: Meichi Jin,# Jingyi Ding,# Yu Zhou, Jiazhao Chen, Yi Wang, and <b>Zida Li</b><sup>*</sup>
+  authors: Meichi Jin,<sup>#</sup> Jingyi Ding,<sup>#</sup> Yu Zhou, Jiazhao Chen, Yi Wang, and <b>Zida Li</b><sup>*</sup>
   link:
     url: https://www.pnas.org/doi/10.1073/pnas.2314030121
     display: Proc. Natl. Acad. Sci. U.S.A., 121(2), e2314030121 (2024)
@@ -143,7 +143,7 @@
 
 - title: "CoID-LAMP: Color-encoded, intelligent digital LAMP for multiplexed nucleic acid quantification"
   image: 2023_AC_Wu.png
-  authors: Kai Wu,# Qi Fang,# Zhantao Zhao, and <b>Zida Li</b><sup>*</sup>
+  authors: Kai Wu,<sup>#</sup> Qi Fang,<sup>#</sup> Zhantao Zhao, and <b>Zida Li</b><sup>*</sup>
   description: This paper introduces CoID-LAMP, a new method for detecting and measuring multiple genetic materials (nucleic acids) simultaneously. Instead of using complicated fluorescent tags for each target, CoID-LAMP uses simple colored droplets and deep learning image analysis to identify and count different genetic targets. The system pairs color-coded primer droplets with sample droplets on a small chip, allowing the reaction to take place and be observed with basic imaging tools. The method works accurately with both fluorescent and non-fluorescent (brightfield) dyes, making it low-cost and user-friendly. This technology could help make genetic testing faster, easier, and more accessible.
   link:
     url: https://doi.org/10.1021/acs.analchem.2c05665
@@ -154,7 +154,7 @@
 
 - title: "Combinatorial perturbation sequencing on single cells using microwell-based droplet random pairing"
   image: 2022_BB_Xie.png
-  authors: Run Xie,# Yang Liu,# Shiyu Wang, Xuyang Shi, Zhantao Zhao, Longqi Liu, Ya Liu,<sup>*</sup> and <b>Zida Li</b><sup>*</sup>
+  authors: Run Xie,<sup>#</sup> Yang Liu,<sup>#</sup> Shiyu Wang, Xuyang Shi, Zhantao Zhao, Longqi Liu, Ya Liu,<sup>*</sup> and <b>Zida Li</b><sup>*</sup>
   description: This study introduces a new technology called CP-seq, which helps researchers test combinations of drugs on individual cells. It works by tagging each drug with a unique barcode and using microfluidic devices to randomly mix drugs with cells in tiny droplets. After treatment, scientists can read both the cell's genetic response and the drug combination it received. This method allows thousands of drug combinations to be tested quickly and efficiently, offering a powerful tool for discovering better treatments and reducing drug resistance.
   link:
     url: https://doi.org/10.1016/j.bios.2022.114913
@@ -187,7 +187,7 @@
 
 - title: "deep-dLAMP: deep learning-enabled polydisperse emulsion-based digital loop-mediated isothermal amplification"
   image: 2022_AS_Chen.png
-  authors: Linzhe Chen,# Jingyi Ding,# Hao Yuan, Chi Chen,<sup>*</sup> and <b>Zida Li</b><sup>*</sup>
+  authors: Linzhe Chen,<sup>#</sup> Jingyi Ding,<sup>#</sup> Hao Yuan, Chi Chen,<sup>*</sup> and <b>Zida Li</b><sup>*</sup>
   description: This study introduces "deep-dLAMP," a low-cost method for quantifying nucleic acids using common lab equipment and advanced deep learning. Instead of requiring expensive tools to create uniform droplets, the method uses simple vortex mixing to produce droplets of various sizes and applies deep learning to analyze images of these droplets. It identifies whether each droplet contains a DNA amplification product by detecting visible precipitates, and then calculates the DNA concentration based on droplet size and occupancy using statistical models. This method is accurate, robust across different conditions, and has the potential to be widely used in labs or point-of-care testing.
   link: 
     url: https://doi.org/10.1002/advs.202105450
@@ -208,7 +208,7 @@
 
 - title: "Generation and Screening of Antigen-Specific Nanobodies from Mammalian Cells Expressing the BCR Repertoire Library Using Droplet-Based Microfluidics"
   image:
-  authors: Menghua Lyu,# Xuyang Shi,# Xiaopan Liu,# Yang Liu, Xijun Zhu, Lijuan Liao, Hongyan Zhao, Na Sun, Shiyu Wang, Linzhe Chen, Linyuan Fan, Qumiao Xu, Qianqian Zhu, Kai Gao, Huaying Chen, Yonggang Zhu, <b>Zida Li</b>, Weijin Guo, Yue Zheng, Ying Gu, Longqi Liu,<sup>*</sup> Meiniang Wang,<sup>*</sup> and Ya Liu<sup>*</sup>
+  authors: Menghua Lyu,<sup>#</sup> Xuyang Shi,<sup>#</sup> Xiaopan Liu,<sup>#</sup> Yang Liu, Xijun Zhu, Lijuan Liao, Hongyan Zhao, Na Sun, Shiyu Wang, Linzhe Chen, Linyuan Fan, Qumiao Xu, Qianqian Zhu, Kai Gao, Huaying Chen, Yonggang Zhu, <b>Zida Li</b>, Weijin Guo, Yue Zheng, Ying Gu, Longqi Liu,<sup>*</sup> Meiniang Wang,<sup>*</sup> and Ya Liu<sup>*</sup>
   description:
   link:
     url: https://doi.org/10.1021/acs.analchem.2c00865
@@ -218,7 +218,7 @@
 
 - title: "Point-of-care blood coagulation assay enabled by printed circuit board-based digital microfluidics"
   image:
-  authors: Donghao Li,# Xinyu Liu,# Yujuan Chai,# Jieying Shan, Yihan Xie, Yong Liang, Susu Huang, Weidong Zheng, and <b>Zida Li</b><sup>*</sup>
+  authors: Donghao Li,<sup>#</sup> Xinyu Liu,<sup>#</sup> Yujuan Chai,<sup>#</sup> Jieying Shan, Yihan Xie, Yong Liang, Susu Huang, Weidong Zheng, and <b>Zida Li</b><sup>*</sup>
   description:
   link:
     url: https://doi.org/10.1039/D1LC00981H
@@ -229,7 +229,7 @@
 
 - title: "Single-cell sequencing to unveil the mystery of embryonic development"
   image:
-  authors: <b>Zida Li</b>,#,<sup>*</sup> Feng Lin,# Chu-Han Zhong, Shue Wang, Xufeng Xue, and Yue Shao<sup>*</sup>
+  authors: <b>Zida Li</b>,<sup>#,*</sup> Feng Lin,<sup>#</sup> Chu-Han Zhong, Shue Wang, Xufeng Xue, and Yue Shao<sup>*</sup>
   description:
   link:
     url: https://doi.org/10.1002/adbi.202101151
@@ -239,7 +239,7 @@
 
 - title: "High-throughput functional screening of antigen-specific T-cells based on droplet microfluidics on single-cell level"
   image:
-  authors: Shiyu Wang,# Yang Liu,# Yijian Li, Menghua Lv, Kai Gao, Ying He, Wenbo Wei, Yonggang Zhu, Xuan Dong, Xun Xu, <b>Zida Li</b>,<sup>*</sup> Longqi Liu,<sup>*</sup> and Ya Liu<sup>*</sup>
+  authors: Shiyu Wang,<sup>#</sup> Yang Liu,<sup>#</sup> Yijian Li, Menghua Lv, Kai Gao, Ying He, Wenbo Wei, Yonggang Zhu, Xuan Dong, Xun Xu, <b>Zida Li</b>,<sup>*</sup> Longqi Liu,<sup>*</sup> and Ya Liu<sup>*</sup>
   description:
   link:
     url: https://doi.org/10.1021/acs.analchem.1c03678
@@ -259,7 +259,7 @@
 
 - title: "Micro-engineered flexural post rings for effective blood sample fencing and high throughput measurement of clot retraction force"
   image:
-  authors: Lanzhu Huang,# Xinyu Liu,# Yuanbin Ou, Haofan Huang, Xia Zhang, Yize Wang, Yong Liang, Xiaxia Yu, Weidong Zheng, Huisheng Zhang, and <b>Zida Li</b><sup>*</sup>
+  authors: Lanzhu Huang,<sup>#</sup> Xinyu Liu,<sup>#</sup> Yuanbin Ou, Haofan Huang, Xia Zhang, Yize Wang, Yong Liang, Xiaxia Yu, Weidong Zheng, Huisheng Zhang, and <b>Zida Li</b><sup>*</sup>
   description:
   link:
     url: https://doi.org/10.1021/acssensors.0c01596
@@ -289,7 +289,7 @@
 
 - title: "Dean flow assisted single cell and bead encapsulation for high performance single cell expression profiling"
   image:
-  authors: Luoquan Li,# Ping Wu,# Zhaofeng Luo, Lei Wang, Weiping Ding, Tao Wu, Jinyu Chen, Jinlong He, Yi He, Heran Wang, Ying Chen, Guibo Li, <b>Zida Li</b>,<sup>*</sup> and Liqun He<sup>*</sup>
+  authors: Luoquan Li,<sup>#</sup> Ping Wu,<sup>#</sup> Zhaofeng Luo, Lei Wang, Weiping Ding, Tao Wu, Jinyu Chen, Jinlong He, Yi He, Heran Wang, Ying Chen, Guibo Li, <b>Zida Li</b>,<sup>*</sup> and Liqun He<sup>*</sup>
   description:
   link:
     url: https://doi.org/10.1021/acssensors.9b00171
@@ -320,7 +320,7 @@
 
 - title: "Dorsal-ventral patterned neural cyst from human pluripotent stem cells in a neurogenic niche"
   image: dummy.png
-  authors: Yuanyuan Zheng,# Xufeng Xue,# Agnes M. Resto Irizarry, <b>Zida Li</b>, Yue Shao, Yi Zheng, Gang Zhao,<sup>*</sup> and Jianping Fu<sup>*</sup>
+  authors: Yuanyuan Zheng,<sup>#</sup> Xufeng Xue,<sup>#</sup> Agnes M. Resto Irizarry, <b>Zida Li</b>, Yue Shao, Yi Zheng, Gang Zhao,<sup>*</sup> and Jianping Fu<sup>*</sup>
   description: Despite its importance in central nervous system development, development of the human neural tube (NT) remains poorly understood, given the challenges of studying human embryos, and the developmental divergence between humans and animal models. We report a human NT development model, in which NT-like tissues, neuroepithelial (NE) cysts, are generated in a bioengineered neurogenic environment through self-organization of human pluripotent stem cells (hPSCs). NE cysts correspond to the neural plate in the dorsal ectoderm and have a default dorsal identity. Dorsal-ventral (DV) patterning of NE cysts is achieved using retinoic acid and/or sonic hedgehog and features sequential emergence of the ventral floor plate, P3, and pMN domains in discrete, adjacent regions and a dorsal territory progressively restricted to the opposite dorsal pole. This hPSC-based, DV patterned NE cyst system will be useful for understanding the self-organizing principles that guide NT patterning and for investigations of neural development and neural disease.
   link:
     url: https://doi.org/10.1126/sciadv.aax5933
