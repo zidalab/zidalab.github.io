@@ -19,6 +19,8 @@ ZidaLab 建立了覆盖微加工、液滴微流控、显微成像、分子生物
 
 ## 实验室空间
 
+[**实验室全景导览（Lab Tour）**]({{ '/lab-tour/' | relative_url }})
+
 <div class="instrument-grid" markdown="0">
   <a class="instrument-card" href="{{ site.url }}{{ site.baseurl }}/images/inst/lab_view.jpg">
     <img src="{{ site.url }}{{ site.baseurl }}/images/inst/lab_view.jpg" alt="实验室空间" loading="eager" decoding="async" />

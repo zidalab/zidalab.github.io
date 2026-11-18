@@ -18,6 +18,8 @@ ZidaLab maintains an integrated experimental environment for microfabrication, d
 
 ## Lab Space Overview
 
+[**Lab Tour (360°)**]({{ '/lab-tour/' | relative_url }})
+
 <div class="instrument-grid" markdown="0">
   <a class="instrument-card" href="{{ site.url }}{{ site.baseurl }}/images/inst/lab_view.jpg">
     <img src="{{ site.url }}{{ site.baseurl }}/images/inst/lab_view.jpg" alt="Lab view" loading="eager" decoding="async" />

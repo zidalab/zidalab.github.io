@@ -101,4 +101,6 @@ Our work is hands-on and interdisciplinary: device fabrication, droplet experime
 
 The lab maintains facilities for microfabrication, microscopy, molecular biology, cell experiments, droplet handling, and computation. This enables students to move from concept to prototype to quantitative testing within one research environment.
 
+[**Lab Tour (360°)**]({{ '/lab-tour/' | relative_url }})
+
 [**See Full Facilities**]({{ site.url }}{{ site.baseurl }}/instrumente)
