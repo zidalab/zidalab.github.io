@@ -44,7 +44,8 @@ Advisors: Prof. Liqun He
 </div>
 
 <div class="profile-section-card profile-section-card-wide">
-<h5><u>Selected Awards</u></h5>
+<h5><u>Selected Awards &amp; Honors</u></h5>
+Senior Member, IEEE (2026)<br>
 Best Oral Presentation Award, CCS Conference on Analytical Chemistry (2023)<br>
 Best Paper Award, Shenzhen Association for Science and Technology (2023)<br>
 Baxter Young Investigator Award First-Tier, Baxter Healthcare Inc. (2016)<br>

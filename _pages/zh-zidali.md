@@ -45,7 +45,8 @@ email: zidali AT szu.edu.cn<br>
 </div>
 
 <div class="profile-section-card profile-section-card-wide">
-<h5><u>代表性奖励</u></h5>
+<h5><u>代表性荣誉</u></h5>
+IEEE Senior Member (2026)<br>
 中国化学会分析化学年会最佳口头报告奖（2023）<br>
 深圳市科学技术协会优秀论文奖（2023）<br>
 Baxter Young Investigator Award First-Tier, Baxter Healthcare Inc.（2016）<br>
